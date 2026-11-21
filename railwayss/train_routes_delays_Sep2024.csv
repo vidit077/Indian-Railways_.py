@@ -1,0 +1,1684 @@
+train,date,station,arr_delay
+12301 Howrah Rajdhani,2024-09-01,Howrah,1.0
+12301 Howrah Rajdhani,2024-09-01,Dhanbad,1.0
+12301 Howrah Rajdhani,2024-09-01,Gaya,13.0
+12301 Howrah Rajdhani,2024-09-01,Mughalsarai,22.0
+12301 Howrah Rajdhani,2024-09-01,Kanpur,24.0
+12301 Howrah Rajdhani,2024-09-01,New Delhi,27.0
+12302 New Delhi Rajdhani,2024-09-01,New Delhi,9.0
+12302 New Delhi Rajdhani,2024-09-01,Kanpur,16.0
+12302 New Delhi Rajdhani,2024-09-01,Mughalsarai,16.0
+12302 New Delhi Rajdhani,2024-09-01,Gaya,23.0
+12302 New Delhi Rajdhani,2024-09-01,Dhanbad,12.0
+12302 New Delhi Rajdhani,2024-09-01,Howrah,217.0
+12951 Mumbai Rajdhani,2024-09-01,Mumbai Central,1.0
+12951 Mumbai Rajdhani,2024-09-01,Surat,3.0
+12951 Mumbai Rajdhani,2024-09-01,Vadodara,2.0
+12951 Mumbai Rajdhani,2024-09-01,Kota,8.0
+12951 Mumbai Rajdhani,2024-09-01,New Delhi,26.0
+12627 Karnataka Express,2024-09-01,Bengaluru,4.0
+12627 Karnataka Express,2024-09-01,Guntakal,9.0
+12627 Karnataka Express,2024-09-01,Nagpur,12.0
+12627 Karnataka Express,2024-09-01,Bhopal,8.0
+12627 Karnataka Express,2024-09-01,Jhansi,14.0
+12627 Karnataka Express,2024-09-01,New Delhi,8.0
+12561 Swatantrata Senani,2024-09-01,Jaynagar,1.0
+12561 Swatantrata Senani,2024-09-01,Darbhanga,8.0
+12561 Swatantrata Senani,2024-09-01,Muzaffarpur,6.0
+12561 Swatantrata Senani,2024-09-01,Gorakhpur,20.0
+12561 Swatantrata Senani,2024-09-01,Lucknow,11.0
+12561 Swatantrata Senani,2024-09-01,New Delhi,15.0
+12559 Shiv Ganga Express,2024-09-01,Varanasi,8.0
+12559 Shiv Ganga Express,2024-09-01,Prayagraj,6.0
+12559 Shiv Ganga Express,2024-09-01,Kanpur,29.0
+12559 Shiv Ganga Express,2024-09-01,New Delhi,26.0
+12417 Prayagraj Express,2024-09-01,Prayagraj,1.0
+12417 Prayagraj Express,2024-09-01,Kanpur,3.0
+12417 Prayagraj Express,2024-09-01,Aligarh,6.0
+12417 Prayagraj Express,2024-09-01,New Delhi,16.0
+12019 Howrah Shatabdi,2024-09-01,Howrah,9.0
+12019 Howrah Shatabdi,2024-09-01,Ranchi,6.0
+12002 Bhopal Shatabdi,2024-09-01,New Delhi,17.0
+12002 Bhopal Shatabdi,2024-09-01,Agra,9.0
+12002 Bhopal Shatabdi,2024-09-01,Gwalior,5.0
+12002 Bhopal Shatabdi,2024-09-01,Jhansi,9.0
+12002 Bhopal Shatabdi,2024-09-01,Bhopal,6.0
+12723 Telangana Express,2024-09-01,Hyderabad,1.0
+12723 Telangana Express,2024-09-01,Nagpur,8.0
+12723 Telangana Express,2024-09-01,Bhopal,16.0
+12723 Telangana Express,2024-09-01,Jhansi,11.0
+12723 Telangana Express,2024-09-01,New Delhi,11.0
+12801 Purushottam Express,2024-09-01,Puri,1.0
+12801 Purushottam Express,2024-09-01,Bhubaneswar,1.0
+12801 Purushottam Express,2024-09-01,Gaya,9.0
+12801 Purushottam Express,2024-09-01,Mughalsarai,38.0
+12801 Purushottam Express,2024-09-01,Kanpur,24.0
+12801 Purushottam Express,2024-09-01,New Delhi,25.0
+12301 Howrah Rajdhani,2024-09-02,Howrah,0.0
+12301 Howrah Rajdhani,2024-09-02,Dhanbad,2.0
+12301 Howrah Rajdhani,2024-09-02,Gaya,9.0
+12301 Howrah Rajdhani,2024-09-02,Mughalsarai,26.0
+12301 Howrah Rajdhani,2024-09-02,Kanpur,46.0
+12301 Howrah Rajdhani,2024-09-02,New Delhi,61.0
+12302 New Delhi Rajdhani,2024-09-02,New Delhi,16.0
+12302 New Delhi Rajdhani,2024-09-02,Kanpur,12.0
+12302 New Delhi Rajdhani,2024-09-02,Mughalsarai,10.0
+12302 New Delhi Rajdhani,2024-09-02,Gaya,18.0
+12302 New Delhi Rajdhani,2024-09-02,Dhanbad,12.0
+12302 New Delhi Rajdhani,2024-09-02,Howrah,34.0
+12621 Tamil Nadu Express,2024-09-02,Chennai,5.0
+12621 Tamil Nadu Express,2024-09-02,Vijayawada,8.0
+12621 Tamil Nadu Express,2024-09-02,Nagpur,11.0
+12621 Tamil Nadu Express,2024-09-02,Bhopal,8.0
+12621 Tamil Nadu Express,2024-09-02,Jhansi,20.0
+12621 Tamil Nadu Express,2024-09-02,New Delhi,22.0
+12627 Karnataka Express,2024-09-02,Bengaluru,0.0
+12627 Karnataka Express,2024-09-02,Guntakal,1.0
+12627 Karnataka Express,2024-09-02,Nagpur,20.0
+12627 Karnataka Express,2024-09-02,Bhopal,15.0
+12627 Karnataka Express,2024-09-02,Jhansi,10.0
+12627 Karnataka Express,2024-09-02,New Delhi,9.0
+12561 Swatantrata Senani,2024-09-02,Jaynagar,0.0
+12561 Swatantrata Senani,2024-09-02,Darbhanga,14.0
+12561 Swatantrata Senani,2024-09-02,Muzaffarpur,10.0
+12561 Swatantrata Senani,2024-09-02,Gorakhpur,15.0
+12561 Swatantrata Senani,2024-09-02,Lucknow,12.0
+12561 Swatantrata Senani,2024-09-02,New Delhi,13.0
+12559 Shiv Ganga Express,2024-09-02,Varanasi,2.0
+12559 Shiv Ganga Express,2024-09-02,Prayagraj,6.0
+12559 Shiv Ganga Express,2024-09-02,Kanpur,25.0
+12559 Shiv Ganga Express,2024-09-02,New Delhi,23.0
+12417 Prayagraj Express,2024-09-02,Prayagraj,8.0
+12417 Prayagraj Express,2024-09-02,Kanpur,29.0
+12417 Prayagraj Express,2024-09-02,Aligarh,214.0
+12417 Prayagraj Express,2024-09-02,New Delhi,113.0
+12019 Howrah Shatabdi,2024-09-02,Howrah,6.0
+12019 Howrah Shatabdi,2024-09-02,Ranchi,5.0
+12002 Bhopal Shatabdi,2024-09-02,New Delhi,19.0
+12002 Bhopal Shatabdi,2024-09-02,Agra,10.0
+12002 Bhopal Shatabdi,2024-09-02,Gwalior,95.0
+12002 Bhopal Shatabdi,2024-09-02,Jhansi,44.0
+12002 Bhopal Shatabdi,2024-09-02,Bhopal,23.0
+12801 Purushottam Express,2024-09-02,Puri,12.0
+12801 Purushottam Express,2024-09-02,Bhubaneswar,6.0
+12801 Purushottam Express,2024-09-02,Gaya,19.0
+12801 Purushottam Express,2024-09-02,Mughalsarai,31.0
+12801 Purushottam Express,2024-09-02,Kanpur,36.0
+12801 Purushottam Express,2024-09-02,New Delhi,31.0
+12301 Howrah Rajdhani,2024-09-03,Howrah,3.0
+12301 Howrah Rajdhani,2024-09-03,Dhanbad,11.0
+12301 Howrah Rajdhani,2024-09-03,Gaya,24.0
+12301 Howrah Rajdhani,2024-09-03,Mughalsarai,35.0
+12301 Howrah Rajdhani,2024-09-03,Kanpur,26.0
+12301 Howrah Rajdhani,2024-09-03,New Delhi,19.0
+12302 New Delhi Rajdhani,2024-09-03,New Delhi,12.0
+12302 New Delhi Rajdhani,2024-09-03,Kanpur,26.0
+12302 New Delhi Rajdhani,2024-09-03,Mughalsarai,21.0
+12302 New Delhi Rajdhani,2024-09-03,Gaya,33.0
+12302 New Delhi Rajdhani,2024-09-03,Dhanbad,18.0
+12302 New Delhi Rajdhani,2024-09-03,Howrah,15.0
+12951 Mumbai Rajdhani,2024-09-03,Mumbai Central,72.0
+12951 Mumbai Rajdhani,2024-09-03,Surat,44.0
+12951 Mumbai Rajdhani,2024-09-03,Vadodara,22.0
+12951 Mumbai Rajdhani,2024-09-03,Kota,16.0
+12951 Mumbai Rajdhani,2024-09-03,New Delhi,19.0
+12621 Tamil Nadu Express,2024-09-03,Chennai,9.0
+12621 Tamil Nadu Express,2024-09-03,Vijayawada,16.0
+12621 Tamil Nadu Express,2024-09-03,Nagpur,23.0
+12621 Tamil Nadu Express,2024-09-03,Bhopal,13.0
+12621 Tamil Nadu Express,2024-09-03,Jhansi,11.0
+12621 Tamil Nadu Express,2024-09-03,New Delhi,9.0
+12627 Karnataka Express,2024-09-03,Bengaluru,3.0
+12627 Karnataka Express,2024-09-03,Guntakal,3.0
+12627 Karnataka Express,2024-09-03,Nagpur,14.0
+12627 Karnataka Express,2024-09-03,Bhopal,9.0
+12627 Karnataka Express,2024-09-03,Jhansi,14.0
+12627 Karnataka Express,2024-09-03,New Delhi,11.0
+12561 Swatantrata Senani,2024-09-03,Jaynagar,140.0
+12561 Swatantrata Senani,2024-09-03,Darbhanga,65.0
+12561 Swatantrata Senani,2024-09-03,Muzaffarpur,40.0
+12561 Swatantrata Senani,2024-09-03,Gorakhpur,31.0
+12561 Swatantrata Senani,2024-09-03,Lucknow,32.0
+12561 Swatantrata Senani,2024-09-03,New Delhi,32.0
+12559 Shiv Ganga Express,2024-09-03,Varanasi,1.0
+12559 Shiv Ganga Express,2024-09-03,Prayagraj,5.0
+12559 Shiv Ganga Express,2024-09-03,Kanpur,30.0
+12559 Shiv Ganga Express,2024-09-03,New Delhi,27.0
+12417 Prayagraj Express,2024-09-03,Prayagraj,5.0
+12417 Prayagraj Express,2024-09-03,Kanpur,4.0
+12417 Prayagraj Express,2024-09-03,Aligarh,15.0
+12417 Prayagraj Express,2024-09-03,New Delhi,15.0
+12019 Howrah Shatabdi,2024-09-03,Howrah,1.0
+12019 Howrah Shatabdi,2024-09-03,Ranchi,3.0
+12002 Bhopal Shatabdi,2024-09-03,New Delhi,6.0
+12002 Bhopal Shatabdi,2024-09-03,Agra,7.0
+12002 Bhopal Shatabdi,2024-09-03,Gwalior,4.0
+12002 Bhopal Shatabdi,2024-09-03,Jhansi,6.0
+12002 Bhopal Shatabdi,2024-09-03,Bhopal,8.0
+12723 Telangana Express,2024-09-03,Hyderabad,0.0
+12723 Telangana Express,2024-09-03,Nagpur,6.0
+12723 Telangana Express,2024-09-03,Bhopal,5.0
+12723 Telangana Express,2024-09-03,Jhansi,7.0
+12723 Telangana Express,2024-09-03,New Delhi,39.0
+12801 Purushottam Express,2024-09-03,Puri,7.0
+12801 Purushottam Express,2024-09-03,Bhubaneswar,5.0
+12801 Purushottam Express,2024-09-03,Gaya,27.0
+12801 Purushottam Express,2024-09-03,Mughalsarai,38.0
+12801 Purushottam Express,2024-09-03,Kanpur,20.0
+12801 Purushottam Express,2024-09-03,New Delhi,13.0
+12301 Howrah Rajdhani,2024-09-04,Howrah,10.0
+12301 Howrah Rajdhani,2024-09-04,Dhanbad,7.0
+12301 Howrah Rajdhani,2024-09-04,Gaya,10.0
+12301 Howrah Rajdhani,2024-09-04,Mughalsarai,24.0
+12301 Howrah Rajdhani,2024-09-04,Kanpur,19.0
+12301 Howrah Rajdhani,2024-09-04,New Delhi,15.0
+12951 Mumbai Rajdhani,2024-09-04,Mumbai Central,6.0
+12951 Mumbai Rajdhani,2024-09-04,Surat,8.0
+12951 Mumbai Rajdhani,2024-09-04,Vadodara,4.0
+12951 Mumbai Rajdhani,2024-09-04,Kota,3.0
+12951 Mumbai Rajdhani,2024-09-04,New Delhi,30.0
+12621 Tamil Nadu Express,2024-09-04,Chennai,3.0
+12621 Tamil Nadu Express,2024-09-04,Vijayawada,12.0
+12621 Tamil Nadu Express,2024-09-04,Nagpur,14.0
+12621 Tamil Nadu Express,2024-09-04,Bhopal,123.0
+12621 Tamil Nadu Express,2024-09-04,Jhansi,64.0
+12621 Tamil Nadu Express,2024-09-04,New Delhi,51.0
+12627 Karnataka Express,2024-09-04,Bengaluru,1.0
+12627 Karnataka Express,2024-09-04,Guntakal,4.0
+12627 Karnataka Express,2024-09-04,Nagpur,13.0
+12627 Karnataka Express,2024-09-04,Bhopal,7.0
+12627 Karnataka Express,2024-09-04,Jhansi,86.0
+12627 Karnataka Express,2024-09-04,New Delhi,53.0
+12561 Swatantrata Senani,2024-09-04,Jaynagar,5.0
+12561 Swatantrata Senani,2024-09-04,Darbhanga,6.0
+12561 Swatantrata Senani,2024-09-04,Muzaffarpur,6.0
+12561 Swatantrata Senani,2024-09-04,Gorakhpur,10.0
+12561 Swatantrata Senani,2024-09-04,Lucknow,10.0
+12561 Swatantrata Senani,2024-09-04,New Delhi,17.0
+12559 Shiv Ganga Express,2024-09-04,Varanasi,3.0
+12559 Shiv Ganga Express,2024-09-04,Prayagraj,15.0
+12559 Shiv Ganga Express,2024-09-04,Kanpur,12.0
+12559 Shiv Ganga Express,2024-09-04,New Delhi,14.0
+12417 Prayagraj Express,2024-09-04,Prayagraj,4.0
+12417 Prayagraj Express,2024-09-04,Kanpur,22.0
+12417 Prayagraj Express,2024-09-04,Aligarh,19.0
+12417 Prayagraj Express,2024-09-04,New Delhi,19.0
+12019 Howrah Shatabdi,2024-09-04,Howrah,1.0
+12019 Howrah Shatabdi,2024-09-04,Ranchi,8.0
+12002 Bhopal Shatabdi,2024-09-04,New Delhi,20.0
+12002 Bhopal Shatabdi,2024-09-04,Agra,9.0
+12002 Bhopal Shatabdi,2024-09-04,Gwalior,8.0
+12002 Bhopal Shatabdi,2024-09-04,Jhansi,5.0
+12002 Bhopal Shatabdi,2024-09-04,Bhopal,13.0
+12723 Telangana Express,2024-09-04,Hyderabad,2.0
+12723 Telangana Express,2024-09-04,Nagpur,16.0
+12723 Telangana Express,2024-09-04,Bhopal,8.0
+12723 Telangana Express,2024-09-04,Jhansi,19.0
+12723 Telangana Express,2024-09-04,New Delhi,23.0
+12801 Purushottam Express,2024-09-04,Puri,6.0
+12801 Purushottam Express,2024-09-04,Bhubaneswar,16.0
+12801 Purushottam Express,2024-09-04,Gaya,20.0
+12801 Purushottam Express,2024-09-04,Mughalsarai,25.0
+12801 Purushottam Express,2024-09-04,Kanpur,17.0
+12801 Purushottam Express,2024-09-04,New Delhi,21.0
+12301 Howrah Rajdhani,2024-09-05,Howrah,4.0
+12301 Howrah Rajdhani,2024-09-05,Dhanbad,10.0
+12301 Howrah Rajdhani,2024-09-05,Gaya,19.0
+12301 Howrah Rajdhani,2024-09-05,Mughalsarai,31.0
+12301 Howrah Rajdhani,2024-09-05,Kanpur,31.0
+12301 Howrah Rajdhani,2024-09-05,New Delhi,21.0
+12302 New Delhi Rajdhani,2024-09-05,New Delhi,19.0
+12302 New Delhi Rajdhani,2024-09-05,Kanpur,13.0
+12302 New Delhi Rajdhani,2024-09-05,Mughalsarai,31.0
+12302 New Delhi Rajdhani,2024-09-05,Gaya,23.0
+12302 New Delhi Rajdhani,2024-09-05,Dhanbad,16.0
+12302 New Delhi Rajdhani,2024-09-05,Howrah,15.0
+12951 Mumbai Rajdhani,2024-09-05,Mumbai Central,3.0
+12951 Mumbai Rajdhani,2024-09-05,Surat,17.0
+12951 Mumbai Rajdhani,2024-09-05,Vadodara,16.0
+12951 Mumbai Rajdhani,2024-09-05,Kota,11.0
+12951 Mumbai Rajdhani,2024-09-05,New Delhi,19.0
+12621 Tamil Nadu Express,2024-09-05,Chennai,6.0
+12621 Tamil Nadu Express,2024-09-05,Vijayawada,3.0
+12621 Tamil Nadu Express,2024-09-05,Nagpur,6.0
+12621 Tamil Nadu Express,2024-09-05,Bhopal,8.0
+12621 Tamil Nadu Express,2024-09-05,Jhansi,9.0
+12621 Tamil Nadu Express,2024-09-05,New Delhi,20.0
+12561 Swatantrata Senani,2024-09-05,Jaynagar,4.0
+12561 Swatantrata Senani,2024-09-05,Darbhanga,9.0
+12561 Swatantrata Senani,2024-09-05,Muzaffarpur,8.0
+12561 Swatantrata Senani,2024-09-05,Gorakhpur,24.0
+12561 Swatantrata Senani,2024-09-05,Lucknow,14.0
+12561 Swatantrata Senani,2024-09-05,New Delhi,24.0
+12559 Shiv Ganga Express,2024-09-05,Varanasi,3.0
+12559 Shiv Ganga Express,2024-09-05,Prayagraj,3.0
+12559 Shiv Ganga Express,2024-09-05,Kanpur,30.0
+12559 Shiv Ganga Express,2024-09-05,New Delhi,20.0
+12417 Prayagraj Express,2024-09-05,Prayagraj,13.0
+12417 Prayagraj Express,2024-09-05,Kanpur,23.0
+12417 Prayagraj Express,2024-09-05,Aligarh,11.0
+12417 Prayagraj Express,2024-09-05,New Delhi,19.0
+12019 Howrah Shatabdi,2024-09-05,Howrah,4.0
+12019 Howrah Shatabdi,2024-09-05,Ranchi,13.0
+12002 Bhopal Shatabdi,2024-09-05,New Delhi,14.0
+12002 Bhopal Shatabdi,2024-09-05,Agra,18.0
+12002 Bhopal Shatabdi,2024-09-05,Gwalior,9.0
+12002 Bhopal Shatabdi,2024-09-05,Jhansi,19.0
+12002 Bhopal Shatabdi,2024-09-05,Bhopal,15.0
+12801 Purushottam Express,2024-09-05,Puri,16.0
+12801 Purushottam Express,2024-09-05,Bhubaneswar,8.0
+12801 Purushottam Express,2024-09-05,Gaya,10.0
+12801 Purushottam Express,2024-09-05,Mughalsarai,19.0
+12801 Purushottam Express,2024-09-05,Kanpur,24.0
+12801 Purushottam Express,2024-09-05,New Delhi,20.0
+12301 Howrah Rajdhani,2024-09-06,Howrah,14.0
+12301 Howrah Rajdhani,2024-09-06,Dhanbad,13.0
+12301 Howrah Rajdhani,2024-09-06,Gaya,15.0
+12301 Howrah Rajdhani,2024-09-06,Mughalsarai,21.0
+12301 Howrah Rajdhani,2024-09-06,Kanpur,36.0
+12301 Howrah Rajdhani,2024-09-06,New Delhi,23.0
+12302 New Delhi Rajdhani,2024-09-06,New Delhi,7.0
+12302 New Delhi Rajdhani,2024-09-06,Kanpur,18.0
+12302 New Delhi Rajdhani,2024-09-06,Mughalsarai,36.0
+12302 New Delhi Rajdhani,2024-09-06,Gaya,33.0
+12302 New Delhi Rajdhani,2024-09-06,Dhanbad,19.0
+12302 New Delhi Rajdhani,2024-09-06,Howrah,10.0
+12951 Mumbai Rajdhani,2024-09-06,Mumbai Central,4.0
+12951 Mumbai Rajdhani,2024-09-06,Surat,4.0
+12951 Mumbai Rajdhani,2024-09-06,Vadodara,10.0
+12951 Mumbai Rajdhani,2024-09-06,Kota,7.0
+12951 Mumbai Rajdhani,2024-09-06,New Delhi,17.0
+12621 Tamil Nadu Express,2024-09-06,Chennai,9.0
+12621 Tamil Nadu Express,2024-09-06,Vijayawada,16.0
+12621 Tamil Nadu Express,2024-09-06,Nagpur,15.0
+12621 Tamil Nadu Express,2024-09-06,Bhopal,7.0
+12621 Tamil Nadu Express,2024-09-06,Jhansi,11.0
+12621 Tamil Nadu Express,2024-09-06,New Delhi,29.0
+12627 Karnataka Express,2024-09-06,Bengaluru,7.0
+12627 Karnataka Express,2024-09-06,Guntakal,4.0
+12627 Karnataka Express,2024-09-06,Nagpur,12.0
+12627 Karnataka Express,2024-09-06,Bhopal,12.0
+12627 Karnataka Express,2024-09-06,Jhansi,17.0
+12627 Karnataka Express,2024-09-06,New Delhi,28.0
+12561 Swatantrata Senani,2024-09-06,Jaynagar,22.0
+12561 Swatantrata Senani,2024-09-06,Darbhanga,13.0
+12561 Swatantrata Senani,2024-09-06,Muzaffarpur,15.0
+12561 Swatantrata Senani,2024-09-06,Gorakhpur,7.0
+12561 Swatantrata Senani,2024-09-06,Lucknow,4.0
+12561 Swatantrata Senani,2024-09-06,New Delhi,22.0
+12559 Shiv Ganga Express,2024-09-06,Varanasi,13.0
+12559 Shiv Ganga Express,2024-09-06,Prayagraj,8.0
+12559 Shiv Ganga Express,2024-09-06,Kanpur,26.0
+12559 Shiv Ganga Express,2024-09-06,New Delhi,19.0
+12417 Prayagraj Express,2024-09-06,Prayagraj,13.0
+12417 Prayagraj Express,2024-09-06,Kanpur,43.0
+12417 Prayagraj Express,2024-09-06,Aligarh,36.0
+12417 Prayagraj Express,2024-09-06,New Delhi,24.0
+12019 Howrah Shatabdi,2024-09-06,Howrah,5.0
+12019 Howrah Shatabdi,2024-09-06,Ranchi,16.0
+12002 Bhopal Shatabdi,2024-09-06,New Delhi,21.0
+12002 Bhopal Shatabdi,2024-09-06,Agra,19.0
+12002 Bhopal Shatabdi,2024-09-06,Gwalior,44.0
+12002 Bhopal Shatabdi,2024-09-06,Jhansi,34.0
+12002 Bhopal Shatabdi,2024-09-06,Bhopal,24.0
+12723 Telangana Express,2024-09-06,Hyderabad,4.0
+12723 Telangana Express,2024-09-06,Nagpur,4.0
+12723 Telangana Express,2024-09-06,Bhopal,3.0
+12723 Telangana Express,2024-09-06,Jhansi,12.0
+12723 Telangana Express,2024-09-06,New Delhi,30.0
+12801 Purushottam Express,2024-09-06,Puri,5.0
+12801 Purushottam Express,2024-09-06,Bhubaneswar,4.0
+12801 Purushottam Express,2024-09-06,Gaya,25.0
+12801 Purushottam Express,2024-09-06,Mughalsarai,50.0
+12801 Purushottam Express,2024-09-06,Kanpur,24.0
+12801 Purushottam Express,2024-09-06,New Delhi,24.0
+12301 Howrah Rajdhani,2024-09-07,Howrah,6.0
+12301 Howrah Rajdhani,2024-09-07,Dhanbad,22.0
+12301 Howrah Rajdhani,2024-09-07,Gaya,34.0
+12301 Howrah Rajdhani,2024-09-07,Mughalsarai,40.0
+12301 Howrah Rajdhani,2024-09-07,Kanpur,45.0
+12301 Howrah Rajdhani,2024-09-07,New Delhi,27.0
+12302 New Delhi Rajdhani,2024-09-07,New Delhi,22.0
+12302 New Delhi Rajdhani,2024-09-07,Kanpur,27.0
+12302 New Delhi Rajdhani,2024-09-07,Mughalsarai,34.0
+12302 New Delhi Rajdhani,2024-09-07,Gaya,42.0
+12302 New Delhi Rajdhani,2024-09-07,Dhanbad,29.0
+12302 New Delhi Rajdhani,2024-09-07,Howrah,19.0
+12951 Mumbai Rajdhani,2024-09-07,Mumbai Central,14.0
+12951 Mumbai Rajdhani,2024-09-07,Surat,21.0
+12951 Mumbai Rajdhani,2024-09-07,Vadodara,10.0
+12951 Mumbai Rajdhani,2024-09-07,Kota,11.0
+12951 Mumbai Rajdhani,2024-09-07,New Delhi,14.0
+12621 Tamil Nadu Express,2024-09-07,Chennai,9.0
+12621 Tamil Nadu Express,2024-09-07,Vijayawada,5.0
+12621 Tamil Nadu Express,2024-09-07,Nagpur,14.0
+12621 Tamil Nadu Express,2024-09-07,Bhopal,8.0
+12621 Tamil Nadu Express,2024-09-07,Jhansi,7.0
+12621 Tamil Nadu Express,2024-09-07,New Delhi,18.0
+12627 Karnataka Express,2024-09-07,Bengaluru,29.0
+12627 Karnataka Express,2024-09-07,Guntakal,27.0
+12627 Karnataka Express,2024-09-07,Nagpur,20.0
+12627 Karnataka Express,2024-09-07,Bhopal,10.0
+12627 Karnataka Express,2024-09-07,Jhansi,176.0
+12627 Karnataka Express,2024-09-07,New Delhi,86.0
+12561 Swatantrata Senani,2024-09-07,Jaynagar,1.0
+12561 Swatantrata Senani,2024-09-07,Darbhanga,22.0
+12561 Swatantrata Senani,2024-09-07,Muzaffarpur,15.0
+12561 Swatantrata Senani,2024-09-07,Gorakhpur,12.0
+12561 Swatantrata Senani,2024-09-07,Lucknow,8.0
+12561 Swatantrata Senani,2024-09-07,New Delhi,9.0
+12559 Shiv Ganga Express,2024-09-07,Varanasi,4.0
+12559 Shiv Ganga Express,2024-09-07,Prayagraj,4.0
+12559 Shiv Ganga Express,2024-09-07,Kanpur,19.0
+12559 Shiv Ganga Express,2024-09-07,New Delhi,30.0
+12019 Howrah Shatabdi,2024-09-07,Howrah,0.0
+12019 Howrah Shatabdi,2024-09-07,Ranchi,10.0
+12002 Bhopal Shatabdi,2024-09-07,New Delhi,21.0
+12002 Bhopal Shatabdi,2024-09-07,Agra,10.0
+12002 Bhopal Shatabdi,2024-09-07,Gwalior,14.0
+12002 Bhopal Shatabdi,2024-09-07,Jhansi,9.0
+12002 Bhopal Shatabdi,2024-09-07,Bhopal,5.0
+12723 Telangana Express,2024-09-07,Hyderabad,5.0
+12723 Telangana Express,2024-09-07,Nagpur,16.0
+12723 Telangana Express,2024-09-07,Bhopal,16.0
+12723 Telangana Express,2024-09-07,Jhansi,28.0
+12723 Telangana Express,2024-09-07,New Delhi,14.0
+12801 Purushottam Express,2024-09-07,Puri,2.0
+12801 Purushottam Express,2024-09-07,Bhubaneswar,17.0
+12801 Purushottam Express,2024-09-07,Gaya,22.0
+12801 Purushottam Express,2024-09-07,Mughalsarai,20.0
+12801 Purushottam Express,2024-09-07,Kanpur,22.0
+12801 Purushottam Express,2024-09-07,New Delhi,25.0
+12301 Howrah Rajdhani,2024-09-08,Howrah,0.0
+12301 Howrah Rajdhani,2024-09-08,Dhanbad,5.0
+12301 Howrah Rajdhani,2024-09-08,Gaya,14.0
+12301 Howrah Rajdhani,2024-09-08,Mughalsarai,32.0
+12301 Howrah Rajdhani,2024-09-08,Kanpur,27.0
+12301 Howrah Rajdhani,2024-09-08,New Delhi,18.0
+12302 New Delhi Rajdhani,2024-09-08,New Delhi,3.0
+12302 New Delhi Rajdhani,2024-09-08,Kanpur,11.0
+12302 New Delhi Rajdhani,2024-09-08,Mughalsarai,13.0
+12302 New Delhi Rajdhani,2024-09-08,Gaya,15.0
+12302 New Delhi Rajdhani,2024-09-08,Dhanbad,29.0
+12302 New Delhi Rajdhani,2024-09-08,Howrah,15.0
+12951 Mumbai Rajdhani,2024-09-08,Mumbai Central,2.0
+12951 Mumbai Rajdhani,2024-09-08,Surat,3.0
+12951 Mumbai Rajdhani,2024-09-08,Vadodara,2.0
+12951 Mumbai Rajdhani,2024-09-08,Kota,8.0
+12951 Mumbai Rajdhani,2024-09-08,New Delhi,7.0
+12621 Tamil Nadu Express,2024-09-08,Chennai,2.0
+12621 Tamil Nadu Express,2024-09-08,Vijayawada,5.0
+12621 Tamil Nadu Express,2024-09-08,Nagpur,12.0
+12621 Tamil Nadu Express,2024-09-08,Bhopal,10.0
+12621 Tamil Nadu Express,2024-09-08,Jhansi,13.0
+12621 Tamil Nadu Express,2024-09-08,New Delhi,15.0
+12627 Karnataka Express,2024-09-08,Bengaluru,2.0
+12627 Karnataka Express,2024-09-08,Guntakal,16.0
+12627 Karnataka Express,2024-09-08,Nagpur,14.0
+12627 Karnataka Express,2024-09-08,Bhopal,7.0
+12627 Karnataka Express,2024-09-08,Jhansi,7.0
+12627 Karnataka Express,2024-09-08,New Delhi,13.0
+12561 Swatantrata Senani,2024-09-08,Jaynagar,5.0
+12561 Swatantrata Senani,2024-09-08,Darbhanga,15.0
+12561 Swatantrata Senani,2024-09-08,Muzaffarpur,8.0
+12561 Swatantrata Senani,2024-09-08,Gorakhpur,7.0
+12561 Swatantrata Senani,2024-09-08,Lucknow,7.0
+12561 Swatantrata Senani,2024-09-08,New Delhi,8.0
+12559 Shiv Ganga Express,2024-09-08,Varanasi,4.0
+12559 Shiv Ganga Express,2024-09-08,Prayagraj,6.0
+12559 Shiv Ganga Express,2024-09-08,Kanpur,27.0
+12559 Shiv Ganga Express,2024-09-08,New Delhi,21.0
+12417 Prayagraj Express,2024-09-08,Prayagraj,9.0
+12417 Prayagraj Express,2024-09-08,Kanpur,22.0
+12417 Prayagraj Express,2024-09-08,Aligarh,17.0
+12417 Prayagraj Express,2024-09-08,New Delhi,15.0
+12019 Howrah Shatabdi,2024-09-08,Howrah,7.0
+12019 Howrah Shatabdi,2024-09-08,Ranchi,16.0
+12002 Bhopal Shatabdi,2024-09-08,New Delhi,4.0
+12002 Bhopal Shatabdi,2024-09-08,Agra,3.0
+12002 Bhopal Shatabdi,2024-09-08,Gwalior,6.0
+12002 Bhopal Shatabdi,2024-09-08,Jhansi,13.0
+12002 Bhopal Shatabdi,2024-09-08,Bhopal,6.0
+12723 Telangana Express,2024-09-08,Hyderabad,5.0
+12723 Telangana Express,2024-09-08,Nagpur,7.0
+12723 Telangana Express,2024-09-08,Bhopal,5.0
+12723 Telangana Express,2024-09-08,Jhansi,13.0
+12723 Telangana Express,2024-09-08,New Delhi,143.0
+12801 Purushottam Express,2024-09-08,Puri,1.0
+12801 Purushottam Express,2024-09-08,Bhubaneswar,10.0
+12801 Purushottam Express,2024-09-08,Gaya,13.0
+12801 Purushottam Express,2024-09-08,Mughalsarai,30.0
+12801 Purushottam Express,2024-09-08,Kanpur,39.0
+12801 Purushottam Express,2024-09-08,New Delhi,37.0
+12301 Howrah Rajdhani,2024-09-09,Howrah,6.0
+12301 Howrah Rajdhani,2024-09-09,Dhanbad,5.0
+12301 Howrah Rajdhani,2024-09-09,Gaya,13.0
+12301 Howrah Rajdhani,2024-09-09,Mughalsarai,33.0
+12301 Howrah Rajdhani,2024-09-09,Kanpur,28.0
+12301 Howrah Rajdhani,2024-09-09,New Delhi,17.0
+12302 New Delhi Rajdhani,2024-09-09,New Delhi,11.0
+12302 New Delhi Rajdhani,2024-09-09,Kanpur,29.0
+12302 New Delhi Rajdhani,2024-09-09,Mughalsarai,21.0
+12302 New Delhi Rajdhani,2024-09-09,Gaya,31.0
+12302 New Delhi Rajdhani,2024-09-09,Dhanbad,16.0
+12302 New Delhi Rajdhani,2024-09-09,Howrah,8.0
+12951 Mumbai Rajdhani,2024-09-09,Mumbai Central,3.0
+12951 Mumbai Rajdhani,2024-09-09,Surat,6.0
+12951 Mumbai Rajdhani,2024-09-09,Vadodara,6.0
+12951 Mumbai Rajdhani,2024-09-09,Kota,142.0
+12951 Mumbai Rajdhani,2024-09-09,New Delhi,84.0
+12621 Tamil Nadu Express,2024-09-09,Chennai,3.0
+12621 Tamil Nadu Express,2024-09-09,Vijayawada,3.0
+12621 Tamil Nadu Express,2024-09-09,Nagpur,13.0
+12621 Tamil Nadu Express,2024-09-09,Bhopal,11.0
+12621 Tamil Nadu Express,2024-09-09,Jhansi,30.0
+12621 Tamil Nadu Express,2024-09-09,New Delhi,108.0
+12627 Karnataka Express,2024-09-09,Bengaluru,7.0
+12627 Karnataka Express,2024-09-09,Guntakal,7.0
+12627 Karnataka Express,2024-09-09,Nagpur,12.0
+12627 Karnataka Express,2024-09-09,Bhopal,7.0
+12627 Karnataka Express,2024-09-09,Jhansi,12.0
+12627 Karnataka Express,2024-09-09,New Delhi,11.0
+12559 Shiv Ganga Express,2024-09-09,Varanasi,8.0
+12559 Shiv Ganga Express,2024-09-09,Prayagraj,9.0
+12559 Shiv Ganga Express,2024-09-09,Kanpur,22.0
+12559 Shiv Ganga Express,2024-09-09,New Delhi,22.0
+12417 Prayagraj Express,2024-09-09,Prayagraj,10.0
+12417 Prayagraj Express,2024-09-09,Kanpur,23.0
+12417 Prayagraj Express,2024-09-09,Aligarh,26.0
+12417 Prayagraj Express,2024-09-09,New Delhi,15.0
+12019 Howrah Shatabdi,2024-09-09,Howrah,3.0
+12019 Howrah Shatabdi,2024-09-09,Ranchi,5.0
+12002 Bhopal Shatabdi,2024-09-09,New Delhi,2.0
+12002 Bhopal Shatabdi,2024-09-09,Agra,5.0
+12002 Bhopal Shatabdi,2024-09-09,Gwalior,5.0
+12002 Bhopal Shatabdi,2024-09-09,Jhansi,13.0
+12002 Bhopal Shatabdi,2024-09-09,Bhopal,14.0
+12723 Telangana Express,2024-09-09,Hyderabad,5.0
+12723 Telangana Express,2024-09-09,Nagpur,10.0
+12723 Telangana Express,2024-09-09,Bhopal,6.0
+12723 Telangana Express,2024-09-09,Jhansi,15.0
+12723 Telangana Express,2024-09-09,New Delhi,25.0
+12801 Purushottam Express,2024-09-09,Puri,4.0
+12801 Purushottam Express,2024-09-09,Bhubaneswar,6.0
+12801 Purushottam Express,2024-09-09,Gaya,24.0
+12801 Purushottam Express,2024-09-09,Mughalsarai,20.0
+12801 Purushottam Express,2024-09-09,Kanpur,29.0
+12801 Purushottam Express,2024-09-09,New Delhi,25.0
+12302 New Delhi Rajdhani,2024-09-10,New Delhi,17.0
+12302 New Delhi Rajdhani,2024-09-10,Kanpur,34.0
+12302 New Delhi Rajdhani,2024-09-10,Mughalsarai,36.0
+12302 New Delhi Rajdhani,2024-09-10,Gaya,19.0
+12302 New Delhi Rajdhani,2024-09-10,Dhanbad,15.0
+12302 New Delhi Rajdhani,2024-09-10,Howrah,18.0
+12951 Mumbai Rajdhani,2024-09-10,Mumbai Central,1.0
+12951 Mumbai Rajdhani,2024-09-10,Surat,6.0
+12951 Mumbai Rajdhani,2024-09-10,Vadodara,9.0
+12951 Mumbai Rajdhani,2024-09-10,Kota,8.0
+12951 Mumbai Rajdhani,2024-09-10,New Delhi,17.0
+12621 Tamil Nadu Express,2024-09-10,Chennai,0.0
+12621 Tamil Nadu Express,2024-09-10,Vijayawada,2.0
+12621 Tamil Nadu Express,2024-09-10,Nagpur,12.0
+12621 Tamil Nadu Express,2024-09-10,Bhopal,11.0
+12621 Tamil Nadu Express,2024-09-10,Jhansi,15.0
+12621 Tamil Nadu Express,2024-09-10,New Delhi,19.0
+12627 Karnataka Express,2024-09-10,Bengaluru,4.0
+12627 Karnataka Express,2024-09-10,Guntakal,3.0
+12627 Karnataka Express,2024-09-10,Nagpur,25.0
+12627 Karnataka Express,2024-09-10,Bhopal,12.0
+12627 Karnataka Express,2024-09-10,Jhansi,11.0
+12627 Karnataka Express,2024-09-10,New Delhi,26.0
+12561 Swatantrata Senani,2024-09-10,Jaynagar,143.0
+12561 Swatantrata Senani,2024-09-10,Darbhanga,75.0
+12561 Swatantrata Senani,2024-09-10,Muzaffarpur,34.0
+12561 Swatantrata Senani,2024-09-10,Gorakhpur,23.0
+12561 Swatantrata Senani,2024-09-10,Lucknow,14.0
+12561 Swatantrata Senani,2024-09-10,New Delhi,24.0
+12559 Shiv Ganga Express,2024-09-10,Varanasi,7.0
+12559 Shiv Ganga Express,2024-09-10,Prayagraj,4.0
+12559 Shiv Ganga Express,2024-09-10,Kanpur,29.0
+12559 Shiv Ganga Express,2024-09-10,New Delhi,33.0
+12417 Prayagraj Express,2024-09-10,Prayagraj,0.0
+12417 Prayagraj Express,2024-09-10,Kanpur,4.0
+12417 Prayagraj Express,2024-09-10,Aligarh,3.0
+12417 Prayagraj Express,2024-09-10,New Delhi,12.0
+12019 Howrah Shatabdi,2024-09-10,Howrah,18.0
+12019 Howrah Shatabdi,2024-09-10,Ranchi,16.0
+12002 Bhopal Shatabdi,2024-09-10,New Delhi,12.0
+12002 Bhopal Shatabdi,2024-09-10,Agra,8.0
+12002 Bhopal Shatabdi,2024-09-10,Gwalior,8.0
+12002 Bhopal Shatabdi,2024-09-10,Jhansi,23.0
+12002 Bhopal Shatabdi,2024-09-10,Bhopal,11.0
+12723 Telangana Express,2024-09-10,Hyderabad,28.0
+12723 Telangana Express,2024-09-10,Nagpur,144.0
+12723 Telangana Express,2024-09-10,Bhopal,66.0
+12723 Telangana Express,2024-09-10,Jhansi,45.0
+12723 Telangana Express,2024-09-10,New Delhi,29.0
+12801 Purushottam Express,2024-09-10,Puri,11.0
+12801 Purushottam Express,2024-09-10,Bhubaneswar,8.0
+12801 Purushottam Express,2024-09-10,Gaya,14.0
+12801 Purushottam Express,2024-09-10,Mughalsarai,26.0
+12801 Purushottam Express,2024-09-10,Kanpur,16.0
+12801 Purushottam Express,2024-09-10,New Delhi,24.0
+12301 Howrah Rajdhani,2024-09-11,Howrah,2.0
+12301 Howrah Rajdhani,2024-09-11,Dhanbad,8.0
+12301 Howrah Rajdhani,2024-09-11,Gaya,17.0
+12301 Howrah Rajdhani,2024-09-11,Mughalsarai,18.0
+12301 Howrah Rajdhani,2024-09-11,Kanpur,29.0
+12301 Howrah Rajdhani,2024-09-11,New Delhi,24.0
+12302 New Delhi Rajdhani,2024-09-11,New Delhi,19.0
+12302 New Delhi Rajdhani,2024-09-11,Kanpur,14.0
+12302 New Delhi Rajdhani,2024-09-11,Mughalsarai,31.0
+12302 New Delhi Rajdhani,2024-09-11,Gaya,29.0
+12302 New Delhi Rajdhani,2024-09-11,Dhanbad,27.0
+12302 New Delhi Rajdhani,2024-09-11,Howrah,16.0
+12951 Mumbai Rajdhani,2024-09-11,Mumbai Central,4.0
+12951 Mumbai Rajdhani,2024-09-11,Surat,7.0
+12951 Mumbai Rajdhani,2024-09-11,Vadodara,10.0
+12951 Mumbai Rajdhani,2024-09-11,Kota,30.0
+12951 Mumbai Rajdhani,2024-09-11,New Delhi,22.0
+12621 Tamil Nadu Express,2024-09-11,Chennai,2.0
+12621 Tamil Nadu Express,2024-09-11,Vijayawada,1.0
+12621 Tamil Nadu Express,2024-09-11,Nagpur,8.0
+12621 Tamil Nadu Express,2024-09-11,Bhopal,6.0
+12621 Tamil Nadu Express,2024-09-11,Jhansi,14.0
+12621 Tamil Nadu Express,2024-09-11,New Delhi,17.0
+12627 Karnataka Express,2024-09-11,Bengaluru,3.0
+12627 Karnataka Express,2024-09-11,Guntakal,5.0
+12627 Karnataka Express,2024-09-11,Nagpur,13.0
+12627 Karnataka Express,2024-09-11,Bhopal,9.0
+12627 Karnataka Express,2024-09-11,Jhansi,11.0
+12627 Karnataka Express,2024-09-11,New Delhi,16.0
+12561 Swatantrata Senani,2024-09-11,Jaynagar,9.0
+12561 Swatantrata Senani,2024-09-11,Darbhanga,18.0
+12561 Swatantrata Senani,2024-09-11,Muzaffarpur,10.0
+12561 Swatantrata Senani,2024-09-11,Gorakhpur,20.0
+12561 Swatantrata Senani,2024-09-11,Lucknow,15.0
+12561 Swatantrata Senani,2024-09-11,New Delhi,11.0
+12417 Prayagraj Express,2024-09-11,Prayagraj,10.0
+12417 Prayagraj Express,2024-09-11,Kanpur,22.0
+12417 Prayagraj Express,2024-09-11,Aligarh,11.0
+12417 Prayagraj Express,2024-09-11,New Delhi,19.0
+12019 Howrah Shatabdi,2024-09-11,Howrah,4.0
+12019 Howrah Shatabdi,2024-09-11,Ranchi,2.0
+12002 Bhopal Shatabdi,2024-09-11,New Delhi,6.0
+12002 Bhopal Shatabdi,2024-09-11,Agra,16.0
+12002 Bhopal Shatabdi,2024-09-11,Gwalior,22.0
+12002 Bhopal Shatabdi,2024-09-11,Jhansi,19.0
+12002 Bhopal Shatabdi,2024-09-11,Bhopal,15.0
+12723 Telangana Express,2024-09-11,Hyderabad,1.0
+12723 Telangana Express,2024-09-11,Nagpur,8.0
+12723 Telangana Express,2024-09-11,Bhopal,10.0
+12723 Telangana Express,2024-09-11,Jhansi,18.0
+12723 Telangana Express,2024-09-11,New Delhi,26.0
+12801 Purushottam Express,2024-09-11,Puri,5.0
+12801 Purushottam Express,2024-09-11,Bhubaneswar,15.0
+12801 Purushottam Express,2024-09-11,Gaya,19.0
+12801 Purushottam Express,2024-09-11,Mughalsarai,24.0
+12801 Purushottam Express,2024-09-11,Kanpur,25.0
+12801 Purushottam Express,2024-09-11,New Delhi,32.0
+12301 Howrah Rajdhani,2024-09-12,Howrah,14.0
+12301 Howrah Rajdhani,2024-09-12,Dhanbad,18.0
+12301 Howrah Rajdhani,2024-09-12,Gaya,17.0
+12301 Howrah Rajdhani,2024-09-12,Mughalsarai,22.0
+12301 Howrah Rajdhani,2024-09-12,Kanpur,30.0
+12301 Howrah Rajdhani,2024-09-12,New Delhi,33.0
+12302 New Delhi Rajdhani,2024-09-12,New Delhi,6.0
+12302 New Delhi Rajdhani,2024-09-12,Kanpur,31.0
+12302 New Delhi Rajdhani,2024-09-12,Mughalsarai,37.0
+12302 New Delhi Rajdhani,2024-09-12,Gaya,28.0
+12302 New Delhi Rajdhani,2024-09-12,Dhanbad,14.0
+12302 New Delhi Rajdhani,2024-09-12,Howrah,9.0
+12621 Tamil Nadu Express,2024-09-12,Chennai,7.0
+12621 Tamil Nadu Express,2024-09-12,Vijayawada,6.0
+12621 Tamil Nadu Express,2024-09-12,Nagpur,17.0
+12621 Tamil Nadu Express,2024-09-12,Bhopal,8.0
+12621 Tamil Nadu Express,2024-09-12,Jhansi,23.0
+12621 Tamil Nadu Express,2024-09-12,New Delhi,28.0
+12627 Karnataka Express,2024-09-12,Bengaluru,4.0
+12627 Karnataka Express,2024-09-12,Guntakal,3.0
+12627 Karnataka Express,2024-09-12,Nagpur,12.0
+12627 Karnataka Express,2024-09-12,Bhopal,9.0
+12627 Karnataka Express,2024-09-12,Jhansi,10.0
+12627 Karnataka Express,2024-09-12,New Delhi,11.0
+12561 Swatantrata Senani,2024-09-12,Jaynagar,0.0
+12561 Swatantrata Senani,2024-09-12,Darbhanga,1.0
+12561 Swatantrata Senani,2024-09-12,Muzaffarpur,16.0
+12561 Swatantrata Senani,2024-09-12,Gorakhpur,23.0
+12561 Swatantrata Senani,2024-09-12,Lucknow,12.0
+12561 Swatantrata Senani,2024-09-12,New Delhi,18.0
+12417 Prayagraj Express,2024-09-12,Prayagraj,1.0
+12417 Prayagraj Express,2024-09-12,Kanpur,13.0
+12417 Prayagraj Express,2024-09-12,Aligarh,11.0
+12417 Prayagraj Express,2024-09-12,New Delhi,13.0
+12019 Howrah Shatabdi,2024-09-12,Howrah,0.0
+12019 Howrah Shatabdi,2024-09-12,Ranchi,9.0
+12002 Bhopal Shatabdi,2024-09-12,New Delhi,39.0
+12002 Bhopal Shatabdi,2024-09-12,Agra,19.0
+12002 Bhopal Shatabdi,2024-09-12,Gwalior,18.0
+12002 Bhopal Shatabdi,2024-09-12,Jhansi,20.0
+12002 Bhopal Shatabdi,2024-09-12,Bhopal,12.0
+12723 Telangana Express,2024-09-12,Hyderabad,2.0
+12723 Telangana Express,2024-09-12,Nagpur,4.0
+12723 Telangana Express,2024-09-12,Bhopal,3.0
+12723 Telangana Express,2024-09-12,Jhansi,4.0
+12723 Telangana Express,2024-09-12,New Delhi,10.0
+12301 Howrah Rajdhani,2024-09-13,Howrah,0.0
+12301 Howrah Rajdhani,2024-09-13,Dhanbad,1.0
+12301 Howrah Rajdhani,2024-09-13,Gaya,16.0
+12301 Howrah Rajdhani,2024-09-13,Mughalsarai,13.0
+12301 Howrah Rajdhani,2024-09-13,Kanpur,31.0
+12301 Howrah Rajdhani,2024-09-13,New Delhi,35.0
+12951 Mumbai Rajdhani,2024-09-13,Mumbai Central,2.0
+12951 Mumbai Rajdhani,2024-09-13,Surat,9.0
+12951 Mumbai Rajdhani,2024-09-13,Vadodara,16.0
+12951 Mumbai Rajdhani,2024-09-13,Kota,11.0
+12951 Mumbai Rajdhani,2024-09-13,New Delhi,15.0
+12621 Tamil Nadu Express,2024-09-13,Chennai,1.0
+12621 Tamil Nadu Express,2024-09-13,Vijayawada,7.0
+12621 Tamil Nadu Express,2024-09-13,Nagpur,11.0
+12621 Tamil Nadu Express,2024-09-13,Bhopal,7.0
+12621 Tamil Nadu Express,2024-09-13,Jhansi,21.0
+12621 Tamil Nadu Express,2024-09-13,New Delhi,17.0
+12627 Karnataka Express,2024-09-13,Bengaluru,1.0
+12627 Karnataka Express,2024-09-13,Guntakal,3.0
+12627 Karnataka Express,2024-09-13,Nagpur,15.0
+12627 Karnataka Express,2024-09-13,Bhopal,9.0
+12627 Karnataka Express,2024-09-13,Jhansi,15.0
+12627 Karnataka Express,2024-09-13,New Delhi,19.0
+12561 Swatantrata Senani,2024-09-13,Jaynagar,0.0
+12561 Swatantrata Senani,2024-09-13,Darbhanga,16.0
+12561 Swatantrata Senani,2024-09-13,Muzaffarpur,12.0
+12561 Swatantrata Senani,2024-09-13,Gorakhpur,22.0
+12561 Swatantrata Senani,2024-09-13,Lucknow,13.0
+12561 Swatantrata Senani,2024-09-13,New Delhi,19.0
+12559 Shiv Ganga Express,2024-09-13,Varanasi,2.0
+12559 Shiv Ganga Express,2024-09-13,Prayagraj,5.0
+12559 Shiv Ganga Express,2024-09-13,Kanpur,31.0
+12559 Shiv Ganga Express,2024-09-13,New Delhi,18.0
+12417 Prayagraj Express,2024-09-13,Prayagraj,0.0
+12417 Prayagraj Express,2024-09-13,Kanpur,17.0
+12417 Prayagraj Express,2024-09-13,Aligarh,13.0
+12417 Prayagraj Express,2024-09-13,New Delhi,195.0
+12019 Howrah Shatabdi,2024-09-13,Howrah,4.0
+12019 Howrah Shatabdi,2024-09-13,Ranchi,7.0
+12002 Bhopal Shatabdi,2024-09-13,New Delhi,16.0
+12002 Bhopal Shatabdi,2024-09-13,Agra,10.0
+12002 Bhopal Shatabdi,2024-09-13,Gwalior,17.0
+12002 Bhopal Shatabdi,2024-09-13,Jhansi,22.0
+12002 Bhopal Shatabdi,2024-09-13,Bhopal,33.0
+12723 Telangana Express,2024-09-13,Hyderabad,8.0
+12723 Telangana Express,2024-09-13,Nagpur,29.0
+12723 Telangana Express,2024-09-13,Bhopal,13.0
+12723 Telangana Express,2024-09-13,Jhansi,36.0
+12723 Telangana Express,2024-09-13,New Delhi,33.0
+12801 Purushottam Express,2024-09-13,Puri,13.0
+12801 Purushottam Express,2024-09-13,Bhubaneswar,10.0
+12801 Purushottam Express,2024-09-13,Gaya,18.0
+12801 Purushottam Express,2024-09-13,Mughalsarai,36.0
+12801 Purushottam Express,2024-09-13,Kanpur,33.0
+12801 Purushottam Express,2024-09-13,New Delhi,29.0
+12301 Howrah Rajdhani,2024-09-14,Howrah,10.0
+12301 Howrah Rajdhani,2024-09-14,Dhanbad,19.0
+12301 Howrah Rajdhani,2024-09-14,Gaya,18.0
+12301 Howrah Rajdhani,2024-09-14,Mughalsarai,28.0
+12301 Howrah Rajdhani,2024-09-14,Kanpur,67.0
+12301 Howrah Rajdhani,2024-09-14,New Delhi,54.0
+12302 New Delhi Rajdhani,2024-09-14,New Delhi,19.0
+12302 New Delhi Rajdhani,2024-09-14,Kanpur,23.0
+12302 New Delhi Rajdhani,2024-09-14,Mughalsarai,34.0
+12302 New Delhi Rajdhani,2024-09-14,Gaya,22.0
+12302 New Delhi Rajdhani,2024-09-14,Dhanbad,12.0
+12302 New Delhi Rajdhani,2024-09-14,Howrah,8.0
+12951 Mumbai Rajdhani,2024-09-14,Mumbai Central,19.0
+12951 Mumbai Rajdhani,2024-09-14,Surat,10.0
+12951 Mumbai Rajdhani,2024-09-14,Vadodara,10.0
+12951 Mumbai Rajdhani,2024-09-14,Kota,6.0
+12951 Mumbai Rajdhani,2024-09-14,New Delhi,28.0
+12621 Tamil Nadu Express,2024-09-14,Chennai,5.0
+12621 Tamil Nadu Express,2024-09-14,Vijayawada,10.0
+12621 Tamil Nadu Express,2024-09-14,Nagpur,22.0
+12621 Tamil Nadu Express,2024-09-14,Bhopal,121.0
+12621 Tamil Nadu Express,2024-09-14,Jhansi,61.0
+12621 Tamil Nadu Express,2024-09-14,New Delhi,40.0
+12627 Karnataka Express,2024-09-14,Bengaluru,5.0
+12627 Karnataka Express,2024-09-14,Guntakal,15.0
+12627 Karnataka Express,2024-09-14,Nagpur,16.0
+12627 Karnataka Express,2024-09-14,Bhopal,11.0
+12627 Karnataka Express,2024-09-14,Jhansi,7.0
+12627 Karnataka Express,2024-09-14,New Delhi,19.0
+12561 Swatantrata Senani,2024-09-14,Jaynagar,3.0
+12561 Swatantrata Senani,2024-09-14,Darbhanga,13.0
+12561 Swatantrata Senani,2024-09-14,Muzaffarpur,6.0
+12561 Swatantrata Senani,2024-09-14,Gorakhpur,13.0
+12561 Swatantrata Senani,2024-09-14,Lucknow,16.0
+12561 Swatantrata Senani,2024-09-14,New Delhi,15.0
+12559 Shiv Ganga Express,2024-09-14,Varanasi,7.0
+12559 Shiv Ganga Express,2024-09-14,Prayagraj,4.0
+12559 Shiv Ganga Express,2024-09-14,Kanpur,16.0
+12559 Shiv Ganga Express,2024-09-14,New Delhi,17.0
+12417 Prayagraj Express,2024-09-14,Prayagraj,3.0
+12417 Prayagraj Express,2024-09-14,Kanpur,10.0
+12417 Prayagraj Express,2024-09-14,Aligarh,22.0
+12417 Prayagraj Express,2024-09-14,New Delhi,24.0
+12019 Howrah Shatabdi,2024-09-14,Howrah,2.0
+12019 Howrah Shatabdi,2024-09-14,Ranchi,12.0
+12002 Bhopal Shatabdi,2024-09-14,New Delhi,22.0
+12002 Bhopal Shatabdi,2024-09-14,Agra,22.0
+12002 Bhopal Shatabdi,2024-09-14,Gwalior,12.0
+12002 Bhopal Shatabdi,2024-09-14,Jhansi,20.0
+12002 Bhopal Shatabdi,2024-09-14,Bhopal,16.0
+12723 Telangana Express,2024-09-14,Hyderabad,4.0
+12723 Telangana Express,2024-09-14,Nagpur,11.0
+12723 Telangana Express,2024-09-14,Bhopal,13.0
+12723 Telangana Express,2024-09-14,Jhansi,16.0
+12723 Telangana Express,2024-09-14,New Delhi,14.0
+12801 Purushottam Express,2024-09-14,Puri,0.0
+12801 Purushottam Express,2024-09-14,Bhubaneswar,12.0
+12801 Purushottam Express,2024-09-14,Gaya,24.0
+12801 Purushottam Express,2024-09-14,Mughalsarai,16.0
+12801 Purushottam Express,2024-09-14,Kanpur,35.0
+12801 Purushottam Express,2024-09-14,New Delhi,22.0
+12301 Howrah Rajdhani,2024-09-15,Howrah,9.0
+12301 Howrah Rajdhani,2024-09-15,Dhanbad,10.0
+12301 Howrah Rajdhani,2024-09-15,Gaya,10.0
+12301 Howrah Rajdhani,2024-09-15,Mughalsarai,15.0
+12301 Howrah Rajdhani,2024-09-15,Kanpur,19.0
+12301 Howrah Rajdhani,2024-09-15,New Delhi,27.0
+12302 New Delhi Rajdhani,2024-09-15,New Delhi,12.0
+12302 New Delhi Rajdhani,2024-09-15,Kanpur,22.0
+12302 New Delhi Rajdhani,2024-09-15,Mughalsarai,20.0
+12302 New Delhi Rajdhani,2024-09-15,Gaya,10.0
+12302 New Delhi Rajdhani,2024-09-15,Dhanbad,12.0
+12302 New Delhi Rajdhani,2024-09-15,Howrah,10.0
+12951 Mumbai Rajdhani,2024-09-15,Mumbai Central,8.0
+12951 Mumbai Rajdhani,2024-09-15,Surat,6.0
+12951 Mumbai Rajdhani,2024-09-15,Vadodara,6.0
+12951 Mumbai Rajdhani,2024-09-15,Kota,9.0
+12951 Mumbai Rajdhani,2024-09-15,New Delhi,14.0
+12621 Tamil Nadu Express,2024-09-15,Chennai,2.0
+12621 Tamil Nadu Express,2024-09-15,Vijayawada,4.0
+12621 Tamil Nadu Express,2024-09-15,Nagpur,84.0
+12621 Tamil Nadu Express,2024-09-15,Bhopal,44.0
+12621 Tamil Nadu Express,2024-09-15,Jhansi,31.0
+12621 Tamil Nadu Express,2024-09-15,New Delhi,22.0
+12627 Karnataka Express,2024-09-15,Bengaluru,6.0
+12627 Karnataka Express,2024-09-15,Guntakal,3.0
+12627 Karnataka Express,2024-09-15,Nagpur,6.0
+12627 Karnataka Express,2024-09-15,Bhopal,3.0
+12627 Karnataka Express,2024-09-15,Jhansi,13.0
+12627 Karnataka Express,2024-09-15,New Delhi,17.0
+12559 Shiv Ganga Express,2024-09-15,Varanasi,10.0
+12559 Shiv Ganga Express,2024-09-15,Prayagraj,10.0
+12559 Shiv Ganga Express,2024-09-15,Kanpur,19.0
+12559 Shiv Ganga Express,2024-09-15,New Delhi,19.0
+12417 Prayagraj Express,2024-09-15,Prayagraj,4.0
+12417 Prayagraj Express,2024-09-15,Kanpur,14.0
+12417 Prayagraj Express,2024-09-15,Aligarh,10.0
+12417 Prayagraj Express,2024-09-15,New Delhi,21.0
+12019 Howrah Shatabdi,2024-09-15,Howrah,3.0
+12019 Howrah Shatabdi,2024-09-15,Ranchi,2.0
+12002 Bhopal Shatabdi,2024-09-15,New Delhi,17.0
+12002 Bhopal Shatabdi,2024-09-15,Agra,14.0
+12002 Bhopal Shatabdi,2024-09-15,Gwalior,9.0
+12002 Bhopal Shatabdi,2024-09-15,Jhansi,21.0
+12002 Bhopal Shatabdi,2024-09-15,Bhopal,19.0
+12723 Telangana Express,2024-09-15,Hyderabad,1.0
+12723 Telangana Express,2024-09-15,Nagpur,19.0
+12723 Telangana Express,2024-09-15,Bhopal,12.0
+12723 Telangana Express,2024-09-15,Jhansi,16.0
+12723 Telangana Express,2024-09-15,New Delhi,23.0
+12801 Purushottam Express,2024-09-15,Puri,1.0
+12801 Purushottam Express,2024-09-15,Bhubaneswar,4.0
+12801 Purushottam Express,2024-09-15,Gaya,8.0
+12801 Purushottam Express,2024-09-15,Mughalsarai,14.0
+12801 Purushottam Express,2024-09-15,Kanpur,27.0
+12801 Purushottam Express,2024-09-15,New Delhi,26.0
+12301 Howrah Rajdhani,2024-09-16,Howrah,6.0
+12301 Howrah Rajdhani,2024-09-16,Dhanbad,11.0
+12301 Howrah Rajdhani,2024-09-16,Gaya,16.0
+12301 Howrah Rajdhani,2024-09-16,Mughalsarai,23.0
+12301 Howrah Rajdhani,2024-09-16,Kanpur,36.0
+12301 Howrah Rajdhani,2024-09-16,New Delhi,32.0
+12951 Mumbai Rajdhani,2024-09-16,Mumbai Central,1.0
+12951 Mumbai Rajdhani,2024-09-16,Surat,8.0
+12951 Mumbai Rajdhani,2024-09-16,Vadodara,11.0
+12951 Mumbai Rajdhani,2024-09-16,Kota,9.0
+12951 Mumbai Rajdhani,2024-09-16,New Delhi,12.0
+12621 Tamil Nadu Express,2024-09-16,Chennai,4.0
+12621 Tamil Nadu Express,2024-09-16,Vijayawada,3.0
+12621 Tamil Nadu Express,2024-09-16,Nagpur,10.0
+12621 Tamil Nadu Express,2024-09-16,Bhopal,7.0
+12621 Tamil Nadu Express,2024-09-16,Jhansi,4.0
+12621 Tamil Nadu Express,2024-09-16,New Delhi,9.0
+12627 Karnataka Express,2024-09-16,Bengaluru,13.0
+12627 Karnataka Express,2024-09-16,Guntakal,7.0
+12627 Karnataka Express,2024-09-16,Nagpur,12.0
+12627 Karnataka Express,2024-09-16,Bhopal,7.0
+12627 Karnataka Express,2024-09-16,Jhansi,13.0
+12627 Karnataka Express,2024-09-16,New Delhi,38.0
+12561 Swatantrata Senani,2024-09-16,Jaynagar,7.0
+12561 Swatantrata Senani,2024-09-16,Darbhanga,7.0
+12561 Swatantrata Senani,2024-09-16,Muzaffarpur,8.0
+12561 Swatantrata Senani,2024-09-16,Gorakhpur,20.0
+12561 Swatantrata Senani,2024-09-16,Lucknow,22.0
+12561 Swatantrata Senani,2024-09-16,New Delhi,29.0
+12559 Shiv Ganga Express,2024-09-16,Varanasi,5.0
+12559 Shiv Ganga Express,2024-09-16,Prayagraj,6.0
+12559 Shiv Ganga Express,2024-09-16,Kanpur,17.0
+12559 Shiv Ganga Express,2024-09-16,New Delhi,13.0
+12417 Prayagraj Express,2024-09-16,Prayagraj,7.0
+12417 Prayagraj Express,2024-09-16,Kanpur,20.0
+12417 Prayagraj Express,2024-09-16,Aligarh,11.0
+12417 Prayagraj Express,2024-09-16,New Delhi,19.0
+12019 Howrah Shatabdi,2024-09-16,Howrah,12.0
+12019 Howrah Shatabdi,2024-09-16,Ranchi,6.0
+12002 Bhopal Shatabdi,2024-09-16,New Delhi,3.0
+12002 Bhopal Shatabdi,2024-09-16,Agra,3.0
+12002 Bhopal Shatabdi,2024-09-16,Gwalior,5.0
+12002 Bhopal Shatabdi,2024-09-16,Jhansi,120.0
+12002 Bhopal Shatabdi,2024-09-16,Bhopal,55.0
+12723 Telangana Express,2024-09-16,Hyderabad,4.0
+12723 Telangana Express,2024-09-16,Nagpur,6.0
+12723 Telangana Express,2024-09-16,Bhopal,8.0
+12723 Telangana Express,2024-09-16,Jhansi,8.0
+12723 Telangana Express,2024-09-16,New Delhi,11.0
+12801 Purushottam Express,2024-09-16,Puri,7.0
+12801 Purushottam Express,2024-09-16,Bhubaneswar,12.0
+12801 Purushottam Express,2024-09-16,Gaya,15.0
+12801 Purushottam Express,2024-09-16,Mughalsarai,32.0
+12801 Purushottam Express,2024-09-16,Kanpur,20.0
+12801 Purushottam Express,2024-09-16,New Delhi,23.0
+12301 Howrah Rajdhani,2024-09-17,Howrah,9.0
+12301 Howrah Rajdhani,2024-09-17,Dhanbad,6.0
+12301 Howrah Rajdhani,2024-09-17,Gaya,17.0
+12301 Howrah Rajdhani,2024-09-17,Mughalsarai,22.0
+12301 Howrah Rajdhani,2024-09-17,Kanpur,14.0
+12301 Howrah Rajdhani,2024-09-17,New Delhi,121.0
+12302 New Delhi Rajdhani,2024-09-17,New Delhi,25.0
+12302 New Delhi Rajdhani,2024-09-17,Kanpur,32.0
+12302 New Delhi Rajdhani,2024-09-17,Mughalsarai,34.0
+12302 New Delhi Rajdhani,2024-09-17,Gaya,28.0
+12302 New Delhi Rajdhani,2024-09-17,Dhanbad,17.0
+12302 New Delhi Rajdhani,2024-09-17,Howrah,10.0
+12951 Mumbai Rajdhani,2024-09-17,Mumbai Central,2.0
+12951 Mumbai Rajdhani,2024-09-17,Surat,4.0
+12951 Mumbai Rajdhani,2024-09-17,Vadodara,5.0
+12951 Mumbai Rajdhani,2024-09-17,Kota,7.0
+12951 Mumbai Rajdhani,2024-09-17,New Delhi,13.0
+12621 Tamil Nadu Express,2024-09-17,Chennai,3.0
+12621 Tamil Nadu Express,2024-09-17,Vijayawada,6.0
+12621 Tamil Nadu Express,2024-09-17,Nagpur,7.0
+12621 Tamil Nadu Express,2024-09-17,Bhopal,10.0
+12621 Tamil Nadu Express,2024-09-17,Jhansi,10.0
+12621 Tamil Nadu Express,2024-09-17,New Delhi,22.0
+12627 Karnataka Express,2024-09-17,Bengaluru,15.0
+12627 Karnataka Express,2024-09-17,Guntakal,21.0
+12627 Karnataka Express,2024-09-17,Nagpur,13.0
+12627 Karnataka Express,2024-09-17,Bhopal,12.0
+12627 Karnataka Express,2024-09-17,Jhansi,12.0
+12627 Karnataka Express,2024-09-17,New Delhi,19.0
+12561 Swatantrata Senani,2024-09-17,Jaynagar,3.0
+12561 Swatantrata Senani,2024-09-17,Darbhanga,1.0
+12561 Swatantrata Senani,2024-09-17,Muzaffarpur,2.0
+12561 Swatantrata Senani,2024-09-17,Gorakhpur,3.0
+12561 Swatantrata Senani,2024-09-17,Lucknow,2.0
+12561 Swatantrata Senani,2024-09-17,New Delhi,21.0
+12559 Shiv Ganga Express,2024-09-17,Varanasi,3.0
+12559 Shiv Ganga Express,2024-09-17,Prayagraj,7.0
+12559 Shiv Ganga Express,2024-09-17,Kanpur,19.0
+12559 Shiv Ganga Express,2024-09-17,New Delhi,12.0
+12417 Prayagraj Express,2024-09-17,Prayagraj,5.0
+12417 Prayagraj Express,2024-09-17,Kanpur,23.0
+12417 Prayagraj Express,2024-09-17,Aligarh,15.0
+12417 Prayagraj Express,2024-09-17,New Delhi,20.0
+12019 Howrah Shatabdi,2024-09-17,Howrah,4.0
+12019 Howrah Shatabdi,2024-09-17,Ranchi,5.0
+12002 Bhopal Shatabdi,2024-09-17,New Delhi,10.0
+12002 Bhopal Shatabdi,2024-09-17,Agra,16.0
+12002 Bhopal Shatabdi,2024-09-17,Gwalior,10.0
+12002 Bhopal Shatabdi,2024-09-17,Jhansi,8.0
+12002 Bhopal Shatabdi,2024-09-17,Bhopal,8.0
+12723 Telangana Express,2024-09-17,Hyderabad,3.0
+12723 Telangana Express,2024-09-17,Nagpur,9.0
+12723 Telangana Express,2024-09-17,Bhopal,6.0
+12723 Telangana Express,2024-09-17,Jhansi,13.0
+12723 Telangana Express,2024-09-17,New Delhi,10.0
+12801 Purushottam Express,2024-09-17,Puri,2.0
+12801 Purushottam Express,2024-09-17,Bhubaneswar,6.0
+12801 Purushottam Express,2024-09-17,Gaya,12.0
+12801 Purushottam Express,2024-09-17,Mughalsarai,28.0
+12801 Purushottam Express,2024-09-17,Kanpur,24.0
+12801 Purushottam Express,2024-09-17,New Delhi,26.0
+12301 Howrah Rajdhani,2024-09-18,Howrah,0.0
+12301 Howrah Rajdhani,2024-09-18,Dhanbad,7.0
+12301 Howrah Rajdhani,2024-09-18,Gaya,11.0
+12301 Howrah Rajdhani,2024-09-18,Mughalsarai,25.0
+12301 Howrah Rajdhani,2024-09-18,Kanpur,15.0
+12301 Howrah Rajdhani,2024-09-18,New Delhi,20.0
+12302 New Delhi Rajdhani,2024-09-18,New Delhi,11.0
+12302 New Delhi Rajdhani,2024-09-18,Kanpur,19.0
+12302 New Delhi Rajdhani,2024-09-18,Mughalsarai,164.0
+12302 New Delhi Rajdhani,2024-09-18,Gaya,86.0
+12302 New Delhi Rajdhani,2024-09-18,Dhanbad,44.0
+12302 New Delhi Rajdhani,2024-09-18,Howrah,20.0
+12951 Mumbai Rajdhani,2024-09-18,Mumbai Central,1.0
+12951 Mumbai Rajdhani,2024-09-18,Surat,3.0
+12951 Mumbai Rajdhani,2024-09-18,Vadodara,5.0
+12951 Mumbai Rajdhani,2024-09-18,Kota,4.0
+12951 Mumbai Rajdhani,2024-09-18,New Delhi,24.0
+12621 Tamil Nadu Express,2024-09-18,Chennai,0.0
+12621 Tamil Nadu Express,2024-09-18,Vijayawada,3.0
+12621 Tamil Nadu Express,2024-09-18,Nagpur,25.0
+12621 Tamil Nadu Express,2024-09-18,Bhopal,22.0
+12621 Tamil Nadu Express,2024-09-18,Jhansi,19.0
+12621 Tamil Nadu Express,2024-09-18,New Delhi,12.0
+12627 Karnataka Express,2024-09-18,Bengaluru,2.0
+12627 Karnataka Express,2024-09-18,Guntakal,8.0
+12627 Karnataka Express,2024-09-18,Nagpur,12.0
+12627 Karnataka Express,2024-09-18,Bhopal,11.0
+12627 Karnataka Express,2024-09-18,Jhansi,18.0
+12627 Karnataka Express,2024-09-18,New Delhi,20.0
+12561 Swatantrata Senani,2024-09-18,Jaynagar,13.0
+12561 Swatantrata Senani,2024-09-18,Darbhanga,9.0
+12561 Swatantrata Senani,2024-09-18,Muzaffarpur,10.0
+12561 Swatantrata Senani,2024-09-18,Gorakhpur,11.0
+12561 Swatantrata Senani,2024-09-18,Lucknow,11.0
+12561 Swatantrata Senani,2024-09-18,New Delhi,14.0
+12559 Shiv Ganga Express,2024-09-18,Varanasi,7.0
+12559 Shiv Ganga Express,2024-09-18,Prayagraj,5.0
+12559 Shiv Ganga Express,2024-09-18,Kanpur,13.0
+12559 Shiv Ganga Express,2024-09-18,New Delhi,20.0
+12417 Prayagraj Express,2024-09-18,Prayagraj,6.0
+12417 Prayagraj Express,2024-09-18,Kanpur,13.0
+12417 Prayagraj Express,2024-09-18,Aligarh,17.0
+12417 Prayagraj Express,2024-09-18,New Delhi,19.0
+12019 Howrah Shatabdi,2024-09-18,Howrah,20.0
+12019 Howrah Shatabdi,2024-09-18,Ranchi,17.0
+12002 Bhopal Shatabdi,2024-09-18,New Delhi,243.0
+12002 Bhopal Shatabdi,2024-09-18,Agra,121.0
+12002 Bhopal Shatabdi,2024-09-18,Gwalior,57.0
+12002 Bhopal Shatabdi,2024-09-18,Jhansi,32.0
+12002 Bhopal Shatabdi,2024-09-18,Bhopal,32.0
+12723 Telangana Express,2024-09-18,Hyderabad,1.0
+12723 Telangana Express,2024-09-18,Nagpur,9.0
+12723 Telangana Express,2024-09-18,Bhopal,8.0
+12723 Telangana Express,2024-09-18,Jhansi,12.0
+12723 Telangana Express,2024-09-18,New Delhi,13.0
+12801 Purushottam Express,2024-09-18,Puri,2.0
+12801 Purushottam Express,2024-09-18,Bhubaneswar,10.0
+12801 Purushottam Express,2024-09-18,Gaya,19.0
+12801 Purushottam Express,2024-09-18,Mughalsarai,24.0
+12801 Purushottam Express,2024-09-18,Kanpur,15.0
+12801 Purushottam Express,2024-09-18,New Delhi,10.0
+12301 Howrah Rajdhani,2024-09-19,Howrah,3.0
+12301 Howrah Rajdhani,2024-09-19,Dhanbad,2.0
+12301 Howrah Rajdhani,2024-09-19,Gaya,12.0
+12301 Howrah Rajdhani,2024-09-19,Mughalsarai,20.0
+12301 Howrah Rajdhani,2024-09-19,Kanpur,13.0
+12301 Howrah Rajdhani,2024-09-19,New Delhi,24.0
+12951 Mumbai Rajdhani,2024-09-19,Mumbai Central,10.0
+12951 Mumbai Rajdhani,2024-09-19,Surat,8.0
+12951 Mumbai Rajdhani,2024-09-19,Vadodara,4.0
+12951 Mumbai Rajdhani,2024-09-19,Kota,7.0
+12951 Mumbai Rajdhani,2024-09-19,New Delhi,20.0
+12621 Tamil Nadu Express,2024-09-19,Chennai,4.0
+12621 Tamil Nadu Express,2024-09-19,Vijayawada,4.0
+12621 Tamil Nadu Express,2024-09-19,Nagpur,7.0
+12621 Tamil Nadu Express,2024-09-19,Bhopal,12.0
+12621 Tamil Nadu Express,2024-09-19,Jhansi,17.0
+12621 Tamil Nadu Express,2024-09-19,New Delhi,25.0
+12561 Swatantrata Senani,2024-09-19,Jaynagar,6.0
+12561 Swatantrata Senani,2024-09-19,Darbhanga,3.0
+12561 Swatantrata Senani,2024-09-19,Muzaffarpur,4.0
+12561 Swatantrata Senani,2024-09-19,Gorakhpur,17.0
+12561 Swatantrata Senani,2024-09-19,Lucknow,17.0
+12561 Swatantrata Senani,2024-09-19,New Delhi,25.0
+12559 Shiv Ganga Express,2024-09-19,Varanasi,8.0
+12559 Shiv Ganga Express,2024-09-19,Prayagraj,6.0
+12559 Shiv Ganga Express,2024-09-19,Kanpur,15.0
+12559 Shiv Ganga Express,2024-09-19,New Delhi,25.0
+12417 Prayagraj Express,2024-09-19,Prayagraj,11.0
+12417 Prayagraj Express,2024-09-19,Kanpur,19.0
+12417 Prayagraj Express,2024-09-19,Aligarh,9.0
+12417 Prayagraj Express,2024-09-19,New Delhi,23.0
+12019 Howrah Shatabdi,2024-09-19,Howrah,4.0
+12019 Howrah Shatabdi,2024-09-19,Ranchi,9.0
+12002 Bhopal Shatabdi,2024-09-19,New Delhi,19.0
+12002 Bhopal Shatabdi,2024-09-19,Agra,16.0
+12002 Bhopal Shatabdi,2024-09-19,Gwalior,15.0
+12002 Bhopal Shatabdi,2024-09-19,Jhansi,8.0
+12002 Bhopal Shatabdi,2024-09-19,Bhopal,9.0
+12723 Telangana Express,2024-09-19,Hyderabad,1.0
+12723 Telangana Express,2024-09-19,Nagpur,6.0
+12723 Telangana Express,2024-09-19,Bhopal,9.0
+12723 Telangana Express,2024-09-19,Jhansi,12.0
+12723 Telangana Express,2024-09-19,New Delhi,16.0
+12801 Purushottam Express,2024-09-19,Puri,5.0
+12801 Purushottam Express,2024-09-19,Bhubaneswar,4.0
+12801 Purushottam Express,2024-09-19,Gaya,15.0
+12801 Purushottam Express,2024-09-19,Mughalsarai,20.0
+12801 Purushottam Express,2024-09-19,Kanpur,32.0
+12801 Purushottam Express,2024-09-19,New Delhi,28.0
+12301 Howrah Rajdhani,2024-09-20,Howrah,4.0
+12301 Howrah Rajdhani,2024-09-20,Dhanbad,8.0
+12301 Howrah Rajdhani,2024-09-20,Gaya,10.0
+12301 Howrah Rajdhani,2024-09-20,Mughalsarai,22.0
+12301 Howrah Rajdhani,2024-09-20,Kanpur,15.0
+12301 Howrah Rajdhani,2024-09-20,New Delhi,13.0
+12302 New Delhi Rajdhani,2024-09-20,New Delhi,9.0
+12302 New Delhi Rajdhani,2024-09-20,Kanpur,10.0
+12302 New Delhi Rajdhani,2024-09-20,Mughalsarai,10.0
+12302 New Delhi Rajdhani,2024-09-20,Gaya,15.0
+12302 New Delhi Rajdhani,2024-09-20,Dhanbad,11.0
+12302 New Delhi Rajdhani,2024-09-20,Howrah,10.0
+12951 Mumbai Rajdhani,2024-09-20,Mumbai Central,16.0
+12951 Mumbai Rajdhani,2024-09-20,Surat,9.0
+12951 Mumbai Rajdhani,2024-09-20,Vadodara,14.0
+12951 Mumbai Rajdhani,2024-09-20,Kota,13.0
+12951 Mumbai Rajdhani,2024-09-20,New Delhi,19.0
+12621 Tamil Nadu Express,2024-09-20,Chennai,2.0
+12621 Tamil Nadu Express,2024-09-20,Vijayawada,6.0
+12621 Tamil Nadu Express,2024-09-20,Nagpur,10.0
+12621 Tamil Nadu Express,2024-09-20,Bhopal,11.0
+12621 Tamil Nadu Express,2024-09-20,Jhansi,21.0
+12621 Tamil Nadu Express,2024-09-20,New Delhi,29.0
+12627 Karnataka Express,2024-09-20,Bengaluru,6.0
+12627 Karnataka Express,2024-09-20,Guntakal,10.0
+12627 Karnataka Express,2024-09-20,Nagpur,22.0
+12627 Karnataka Express,2024-09-20,Bhopal,23.0
+12627 Karnataka Express,2024-09-20,Jhansi,23.0
+12627 Karnataka Express,2024-09-20,New Delhi,32.0
+12561 Swatantrata Senani,2024-09-20,Jaynagar,17.0
+12561 Swatantrata Senani,2024-09-20,Darbhanga,14.0
+12561 Swatantrata Senani,2024-09-20,Muzaffarpur,18.0
+12561 Swatantrata Senani,2024-09-20,Gorakhpur,31.0
+12561 Swatantrata Senani,2024-09-20,Lucknow,29.0
+12561 Swatantrata Senani,2024-09-20,New Delhi,22.0
+12559 Shiv Ganga Express,2024-09-20,Varanasi,17.0
+12559 Shiv Ganga Express,2024-09-20,Prayagraj,9.0
+12559 Shiv Ganga Express,2024-09-20,Kanpur,16.0
+12559 Shiv Ganga Express,2024-09-20,New Delhi,15.0
+12417 Prayagraj Express,2024-09-20,Prayagraj,8.0
+12417 Prayagraj Express,2024-09-20,Kanpur,13.0
+12417 Prayagraj Express,2024-09-20,Aligarh,7.0
+12417 Prayagraj Express,2024-09-20,New Delhi,216.0
+12019 Howrah Shatabdi,2024-09-20,Howrah,0.0
+12019 Howrah Shatabdi,2024-09-20,Ranchi,12.0
+12002 Bhopal Shatabdi,2024-09-20,New Delhi,84.0
+12002 Bhopal Shatabdi,2024-09-20,Agra,43.0
+12002 Bhopal Shatabdi,2024-09-20,Gwalior,21.0
+12002 Bhopal Shatabdi,2024-09-20,Jhansi,12.0
+12002 Bhopal Shatabdi,2024-09-20,Bhopal,6.0
+12723 Telangana Express,2024-09-20,Hyderabad,5.0
+12723 Telangana Express,2024-09-20,Nagpur,8.0
+12723 Telangana Express,2024-09-20,Bhopal,7.0
+12723 Telangana Express,2024-09-20,Jhansi,15.0
+12723 Telangana Express,2024-09-20,New Delhi,16.0
+12801 Purushottam Express,2024-09-20,Puri,10.0
+12801 Purushottam Express,2024-09-20,Bhubaneswar,220.0
+12801 Purushottam Express,2024-09-20,Gaya,105.0
+12801 Purushottam Express,2024-09-20,Mughalsarai,65.0
+12801 Purushottam Express,2024-09-20,Kanpur,47.0
+12801 Purushottam Express,2024-09-20,New Delhi,40.0
+12301 Howrah Rajdhani,2024-09-21,Howrah,5.0
+12301 Howrah Rajdhani,2024-09-21,Dhanbad,7.0
+12301 Howrah Rajdhani,2024-09-21,Gaya,10.0
+12301 Howrah Rajdhani,2024-09-21,Mughalsarai,31.0
+12301 Howrah Rajdhani,2024-09-21,Kanpur,26.0
+12301 Howrah Rajdhani,2024-09-21,New Delhi,21.0
+12302 New Delhi Rajdhani,2024-09-21,New Delhi,22.0
+12302 New Delhi Rajdhani,2024-09-21,Kanpur,53.0
+12302 New Delhi Rajdhani,2024-09-21,Mughalsarai,34.0
+12302 New Delhi Rajdhani,2024-09-21,Gaya,24.0
+12302 New Delhi Rajdhani,2024-09-21,Dhanbad,15.0
+12302 New Delhi Rajdhani,2024-09-21,Howrah,13.0
+12951 Mumbai Rajdhani,2024-09-21,Mumbai Central,11.0
+12951 Mumbai Rajdhani,2024-09-21,Surat,10.0
+12951 Mumbai Rajdhani,2024-09-21,Vadodara,18.0
+12951 Mumbai Rajdhani,2024-09-21,Kota,17.0
+12951 Mumbai Rajdhani,2024-09-21,New Delhi,19.0
+12621 Tamil Nadu Express,2024-09-21,Chennai,6.0
+12621 Tamil Nadu Express,2024-09-21,Vijayawada,9.0
+12621 Tamil Nadu Express,2024-09-21,Nagpur,16.0
+12621 Tamil Nadu Express,2024-09-21,Bhopal,10.0
+12621 Tamil Nadu Express,2024-09-21,Jhansi,14.0
+12621 Tamil Nadu Express,2024-09-21,New Delhi,10.0
+12627 Karnataka Express,2024-09-21,Bengaluru,1.0
+12627 Karnataka Express,2024-09-21,Guntakal,17.0
+12627 Karnataka Express,2024-09-21,Nagpur,9.0
+12627 Karnataka Express,2024-09-21,Bhopal,18.0
+12627 Karnataka Express,2024-09-21,Jhansi,21.0
+12627 Karnataka Express,2024-09-21,New Delhi,17.0
+12561 Swatantrata Senani,2024-09-21,Jaynagar,5.0
+12561 Swatantrata Senani,2024-09-21,Darbhanga,12.0
+12561 Swatantrata Senani,2024-09-21,Muzaffarpur,10.0
+12561 Swatantrata Senani,2024-09-21,Gorakhpur,20.0
+12561 Swatantrata Senani,2024-09-21,Lucknow,13.0
+12561 Swatantrata Senani,2024-09-21,New Delhi,20.0
+12417 Prayagraj Express,2024-09-21,Prayagraj,4.0
+12417 Prayagraj Express,2024-09-21,Kanpur,23.0
+12417 Prayagraj Express,2024-09-21,Aligarh,13.0
+12417 Prayagraj Express,2024-09-21,New Delhi,38.0
+12019 Howrah Shatabdi,2024-09-21,Howrah,6.0
+12019 Howrah Shatabdi,2024-09-21,Ranchi,97.0
+12002 Bhopal Shatabdi,2024-09-21,New Delhi,20.0
+12002 Bhopal Shatabdi,2024-09-21,Agra,16.0
+12002 Bhopal Shatabdi,2024-09-21,Gwalior,22.0
+12002 Bhopal Shatabdi,2024-09-21,Jhansi,28.0
+12002 Bhopal Shatabdi,2024-09-21,Bhopal,28.0
+12723 Telangana Express,2024-09-21,Hyderabad,4.0
+12723 Telangana Express,2024-09-21,Nagpur,15.0
+12723 Telangana Express,2024-09-21,Bhopal,11.0
+12723 Telangana Express,2024-09-21,Jhansi,30.0
+12723 Telangana Express,2024-09-21,New Delhi,38.0
+12801 Purushottam Express,2024-09-21,Puri,30.0
+12801 Purushottam Express,2024-09-21,Bhubaneswar,16.0
+12801 Purushottam Express,2024-09-21,Gaya,20.0
+12801 Purushottam Express,2024-09-21,Mughalsarai,20.0
+12801 Purushottam Express,2024-09-21,Kanpur,30.0
+12801 Purushottam Express,2024-09-21,New Delhi,30.0
+12301 Howrah Rajdhani,2024-09-22,Howrah,11.0
+12301 Howrah Rajdhani,2024-09-22,Dhanbad,6.0
+12301 Howrah Rajdhani,2024-09-22,Gaya,13.0
+12301 Howrah Rajdhani,2024-09-22,Mughalsarai,32.0
+12301 Howrah Rajdhani,2024-09-22,Kanpur,29.0
+12301 Howrah Rajdhani,2024-09-22,New Delhi,26.0
+12951 Mumbai Rajdhani,2024-09-22,Mumbai Central,2.0
+12951 Mumbai Rajdhani,2024-09-22,Surat,2.0
+12951 Mumbai Rajdhani,2024-09-22,Vadodara,5.0
+12951 Mumbai Rajdhani,2024-09-22,Kota,16.0
+12951 Mumbai Rajdhani,2024-09-22,New Delhi,16.0
+12621 Tamil Nadu Express,2024-09-22,Chennai,13.0
+12621 Tamil Nadu Express,2024-09-22,Vijayawada,24.0
+12621 Tamil Nadu Express,2024-09-22,Nagpur,30.0
+12621 Tamil Nadu Express,2024-09-22,Bhopal,20.0
+12621 Tamil Nadu Express,2024-09-22,Jhansi,29.0
+12621 Tamil Nadu Express,2024-09-22,New Delhi,23.0
+12561 Swatantrata Senani,2024-09-22,Jaynagar,109.0
+12561 Swatantrata Senani,2024-09-22,Darbhanga,62.0
+12561 Swatantrata Senani,2024-09-22,Muzaffarpur,36.0
+12561 Swatantrata Senani,2024-09-22,Gorakhpur,47.0
+12561 Swatantrata Senani,2024-09-22,Lucknow,26.0
+12561 Swatantrata Senani,2024-09-22,New Delhi,21.0
+12559 Shiv Ganga Express,2024-09-22,Varanasi,7.0
+12559 Shiv Ganga Express,2024-09-22,Prayagraj,5.0
+12559 Shiv Ganga Express,2024-09-22,Kanpur,20.0
+12559 Shiv Ganga Express,2024-09-22,New Delhi,21.0
+12417 Prayagraj Express,2024-09-22,Prayagraj,2.0
+12417 Prayagraj Express,2024-09-22,Kanpur,10.0
+12417 Prayagraj Express,2024-09-22,Aligarh,9.0
+12417 Prayagraj Express,2024-09-22,New Delhi,12.0
+12019 Howrah Shatabdi,2024-09-22,Howrah,13.0
+12019 Howrah Shatabdi,2024-09-22,Ranchi,13.0
+12002 Bhopal Shatabdi,2024-09-22,New Delhi,29.0
+12002 Bhopal Shatabdi,2024-09-22,Agra,20.0
+12002 Bhopal Shatabdi,2024-09-22,Gwalior,10.0
+12002 Bhopal Shatabdi,2024-09-22,Jhansi,15.0
+12002 Bhopal Shatabdi,2024-09-22,Bhopal,23.0
+12723 Telangana Express,2024-09-22,Hyderabad,6.0
+12723 Telangana Express,2024-09-22,Nagpur,15.0
+12723 Telangana Express,2024-09-22,Bhopal,10.0
+12723 Telangana Express,2024-09-22,Jhansi,11.0
+12723 Telangana Express,2024-09-22,New Delhi,17.0
+12801 Purushottam Express,2024-09-22,Puri,34.0
+12801 Purushottam Express,2024-09-22,Bhubaneswar,17.0
+12801 Purushottam Express,2024-09-22,Gaya,36.0
+12801 Purushottam Express,2024-09-22,Mughalsarai,46.0
+12801 Purushottam Express,2024-09-22,Kanpur,31.0
+12801 Purushottam Express,2024-09-22,New Delhi,32.0
+12302 New Delhi Rajdhani,2024-09-23,New Delhi,8.0
+12302 New Delhi Rajdhani,2024-09-23,Kanpur,7.0
+12302 New Delhi Rajdhani,2024-09-23,Mughalsarai,16.0
+12302 New Delhi Rajdhani,2024-09-23,Gaya,13.0
+12302 New Delhi Rajdhani,2024-09-23,Dhanbad,7.0
+12302 New Delhi Rajdhani,2024-09-23,Howrah,5.0
+12951 Mumbai Rajdhani,2024-09-23,Mumbai Central,8.0
+12951 Mumbai Rajdhani,2024-09-23,Surat,16.0
+12951 Mumbai Rajdhani,2024-09-23,Vadodara,11.0
+12951 Mumbai Rajdhani,2024-09-23,Kota,13.0
+12951 Mumbai Rajdhani,2024-09-23,New Delhi,9.0
+12621 Tamil Nadu Express,2024-09-23,Chennai,3.0
+12621 Tamil Nadu Express,2024-09-23,Vijayawada,10.0
+12621 Tamil Nadu Express,2024-09-23,Nagpur,13.0
+12621 Tamil Nadu Express,2024-09-23,Bhopal,9.0
+12621 Tamil Nadu Express,2024-09-23,Jhansi,19.0
+12621 Tamil Nadu Express,2024-09-23,New Delhi,11.0
+12627 Karnataka Express,2024-09-23,Bengaluru,6.0
+12627 Karnataka Express,2024-09-23,Guntakal,3.0
+12627 Karnataka Express,2024-09-23,Nagpur,12.0
+12627 Karnataka Express,2024-09-23,Bhopal,5.0
+12627 Karnataka Express,2024-09-23,Jhansi,22.0
+12627 Karnataka Express,2024-09-23,New Delhi,31.0
+12561 Swatantrata Senani,2024-09-23,Jaynagar,9.0
+12561 Swatantrata Senani,2024-09-23,Darbhanga,9.0
+12561 Swatantrata Senani,2024-09-23,Muzaffarpur,6.0
+12561 Swatantrata Senani,2024-09-23,Gorakhpur,18.0
+12561 Swatantrata Senani,2024-09-23,Lucknow,21.0
+12561 Swatantrata Senani,2024-09-23,New Delhi,35.0
+12559 Shiv Ganga Express,2024-09-23,Varanasi,3.0
+12559 Shiv Ganga Express,2024-09-23,Prayagraj,13.0
+12559 Shiv Ganga Express,2024-09-23,Kanpur,196.0
+12559 Shiv Ganga Express,2024-09-23,New Delhi,106.0
+12417 Prayagraj Express,2024-09-23,Prayagraj,6.0
+12417 Prayagraj Express,2024-09-23,Kanpur,15.0
+12417 Prayagraj Express,2024-09-23,Aligarh,12.0
+12417 Prayagraj Express,2024-09-23,New Delhi,20.0
+12019 Howrah Shatabdi,2024-09-23,Howrah,13.0
+12019 Howrah Shatabdi,2024-09-23,Ranchi,11.0
+12723 Telangana Express,2024-09-23,Hyderabad,2.0
+12723 Telangana Express,2024-09-23,Nagpur,24.0
+12723 Telangana Express,2024-09-23,Bhopal,13.0
+12723 Telangana Express,2024-09-23,Jhansi,16.0
+12723 Telangana Express,2024-09-23,New Delhi,21.0
+12801 Purushottam Express,2024-09-23,Puri,3.0
+12801 Purushottam Express,2024-09-23,Bhubaneswar,3.0
+12801 Purushottam Express,2024-09-23,Gaya,14.0
+12801 Purushottam Express,2024-09-23,Mughalsarai,20.0
+12801 Purushottam Express,2024-09-23,Kanpur,16.0
+12801 Purushottam Express,2024-09-23,New Delhi,29.0
+12301 Howrah Rajdhani,2024-09-24,Howrah,11.0
+12301 Howrah Rajdhani,2024-09-24,Dhanbad,9.0
+12301 Howrah Rajdhani,2024-09-24,Gaya,14.0
+12301 Howrah Rajdhani,2024-09-24,Mughalsarai,25.0
+12301 Howrah Rajdhani,2024-09-24,Kanpur,21.0
+12301 Howrah Rajdhani,2024-09-24,New Delhi,13.0
+12302 New Delhi Rajdhani,2024-09-24,New Delhi,18.0
+12302 New Delhi Rajdhani,2024-09-24,Kanpur,20.0
+12302 New Delhi Rajdhani,2024-09-24,Mughalsarai,26.0
+12302 New Delhi Rajdhani,2024-09-24,Gaya,198.0
+12302 New Delhi Rajdhani,2024-09-24,Dhanbad,90.0
+12302 New Delhi Rajdhani,2024-09-24,Howrah,42.0
+12951 Mumbai Rajdhani,2024-09-24,Mumbai Central,3.0
+12951 Mumbai Rajdhani,2024-09-24,Surat,3.0
+12951 Mumbai Rajdhani,2024-09-24,Vadodara,158.0
+12951 Mumbai Rajdhani,2024-09-24,Kota,72.0
+12951 Mumbai Rajdhani,2024-09-24,New Delhi,49.0
+12621 Tamil Nadu Express,2024-09-24,Chennai,2.0
+12621 Tamil Nadu Express,2024-09-24,Vijayawada,2.0
+12621 Tamil Nadu Express,2024-09-24,Nagpur,7.0
+12621 Tamil Nadu Express,2024-09-24,Bhopal,16.0
+12621 Tamil Nadu Express,2024-09-24,Jhansi,12.0
+12621 Tamil Nadu Express,2024-09-24,New Delhi,15.0
+12627 Karnataka Express,2024-09-24,Bengaluru,2.0
+12627 Karnataka Express,2024-09-24,Guntakal,3.0
+12627 Karnataka Express,2024-09-24,Nagpur,6.0
+12627 Karnataka Express,2024-09-24,Bhopal,7.0
+12627 Karnataka Express,2024-09-24,Jhansi,8.0
+12627 Karnataka Express,2024-09-24,New Delhi,17.0
+12561 Swatantrata Senani,2024-09-24,Jaynagar,7.0
+12561 Swatantrata Senani,2024-09-24,Darbhanga,4.0
+12561 Swatantrata Senani,2024-09-24,Muzaffarpur,5.0
+12561 Swatantrata Senani,2024-09-24,Gorakhpur,19.0
+12561 Swatantrata Senani,2024-09-24,Lucknow,9.0
+12561 Swatantrata Senani,2024-09-24,New Delhi,19.0
+12559 Shiv Ganga Express,2024-09-24,Varanasi,15.0
+12559 Shiv Ganga Express,2024-09-24,Prayagraj,14.0
+12559 Shiv Ganga Express,2024-09-24,Kanpur,21.0
+12559 Shiv Ganga Express,2024-09-24,New Delhi,23.0
+12417 Prayagraj Express,2024-09-24,Prayagraj,6.0
+12417 Prayagraj Express,2024-09-24,Kanpur,30.0
+12417 Prayagraj Express,2024-09-24,Aligarh,22.0
+12417 Prayagraj Express,2024-09-24,New Delhi,29.0
+12019 Howrah Shatabdi,2024-09-24,Howrah,9.0
+12019 Howrah Shatabdi,2024-09-24,Ranchi,5.0
+12002 Bhopal Shatabdi,2024-09-24,New Delhi,17.0
+12002 Bhopal Shatabdi,2024-09-24,Agra,17.0
+12002 Bhopal Shatabdi,2024-09-24,Gwalior,11.0
+12002 Bhopal Shatabdi,2024-09-24,Jhansi,26.0
+12002 Bhopal Shatabdi,2024-09-24,Bhopal,15.0
+12723 Telangana Express,2024-09-24,Hyderabad,6.0
+12723 Telangana Express,2024-09-24,Nagpur,16.0
+12723 Telangana Express,2024-09-24,Bhopal,11.0
+12723 Telangana Express,2024-09-24,Jhansi,12.0
+12723 Telangana Express,2024-09-24,New Delhi,28.0
+12801 Purushottam Express,2024-09-24,Puri,7.0
+12801 Purushottam Express,2024-09-24,Bhubaneswar,7.0
+12801 Purushottam Express,2024-09-24,Gaya,15.0
+12801 Purushottam Express,2024-09-24,Mughalsarai,38.0
+12801 Purushottam Express,2024-09-24,Kanpur,32.0
+12801 Purushottam Express,2024-09-24,New Delhi,28.0
+12301 Howrah Rajdhani,2024-09-25,Howrah,3.0
+12301 Howrah Rajdhani,2024-09-25,Dhanbad,6.0
+12301 Howrah Rajdhani,2024-09-25,Gaya,17.0
+12301 Howrah Rajdhani,2024-09-25,Mughalsarai,28.0
+12301 Howrah Rajdhani,2024-09-25,Kanpur,28.0
+12301 Howrah Rajdhani,2024-09-25,New Delhi,23.0
+12302 New Delhi Rajdhani,2024-09-25,New Delhi,9.0
+12302 New Delhi Rajdhani,2024-09-25,Kanpur,9.0
+12302 New Delhi Rajdhani,2024-09-25,Mughalsarai,17.0
+12302 New Delhi Rajdhani,2024-09-25,Gaya,14.0
+12302 New Delhi Rajdhani,2024-09-25,Dhanbad,11.0
+12302 New Delhi Rajdhani,2024-09-25,Howrah,8.0
+12951 Mumbai Rajdhani,2024-09-25,Mumbai Central,5.0
+12951 Mumbai Rajdhani,2024-09-25,Surat,4.0
+12951 Mumbai Rajdhani,2024-09-25,Vadodara,5.0
+12951 Mumbai Rajdhani,2024-09-25,Kota,8.0
+12951 Mumbai Rajdhani,2024-09-25,New Delhi,49.0
+12621 Tamil Nadu Express,2024-09-25,Chennai,10.0
+12621 Tamil Nadu Express,2024-09-25,Vijayawada,17.0
+12621 Tamil Nadu Express,2024-09-25,Nagpur,17.0
+12621 Tamil Nadu Express,2024-09-25,Bhopal,16.0
+12621 Tamil Nadu Express,2024-09-25,Jhansi,22.0
+12621 Tamil Nadu Express,2024-09-25,New Delhi,14.0
+12627 Karnataka Express,2024-09-25,Bengaluru,10.0
+12627 Karnataka Express,2024-09-25,Guntakal,8.0
+12627 Karnataka Express,2024-09-25,Nagpur,17.0
+12627 Karnataka Express,2024-09-25,Bhopal,12.0
+12627 Karnataka Express,2024-09-25,Jhansi,13.0
+12627 Karnataka Express,2024-09-25,New Delhi,24.0
+12561 Swatantrata Senani,2024-09-25,Jaynagar,12.0
+12561 Swatantrata Senani,2024-09-25,Darbhanga,6.0
+12561 Swatantrata Senani,2024-09-25,Muzaffarpur,9.0
+12561 Swatantrata Senani,2024-09-25,Gorakhpur,15.0
+12561 Swatantrata Senani,2024-09-25,Lucknow,8.0
+12561 Swatantrata Senani,2024-09-25,New Delhi,15.0
+12559 Shiv Ganga Express,2024-09-25,Varanasi,7.0
+12559 Shiv Ganga Express,2024-09-25,Prayagraj,4.0
+12559 Shiv Ganga Express,2024-09-25,Kanpur,26.0
+12559 Shiv Ganga Express,2024-09-25,New Delhi,26.0
+12417 Prayagraj Express,2024-09-25,Prayagraj,79.0
+12417 Prayagraj Express,2024-09-25,Kanpur,50.0
+12417 Prayagraj Express,2024-09-25,Aligarh,25.0
+12417 Prayagraj Express,2024-09-25,New Delhi,25.0
+12019 Howrah Shatabdi,2024-09-25,Howrah,2.0
+12019 Howrah Shatabdi,2024-09-25,Ranchi,4.0
+12002 Bhopal Shatabdi,2024-09-25,New Delhi,10.0
+12002 Bhopal Shatabdi,2024-09-25,Agra,14.0
+12002 Bhopal Shatabdi,2024-09-25,Gwalior,8.0
+12002 Bhopal Shatabdi,2024-09-25,Jhansi,22.0
+12002 Bhopal Shatabdi,2024-09-25,Bhopal,11.0
+12723 Telangana Express,2024-09-25,Hyderabad,0.0
+12723 Telangana Express,2024-09-25,Nagpur,112.0
+12723 Telangana Express,2024-09-25,Bhopal,54.0
+12723 Telangana Express,2024-09-25,Jhansi,35.0
+12723 Telangana Express,2024-09-25,New Delhi,33.0
+12801 Purushottam Express,2024-09-25,Puri,6.0
+12801 Purushottam Express,2024-09-25,Bhubaneswar,11.0
+12801 Purushottam Express,2024-09-25,Gaya,26.0
+12801 Purushottam Express,2024-09-25,Mughalsarai,233.0
+12801 Purushottam Express,2024-09-25,Kanpur,110.0
+12801 Purushottam Express,2024-09-25,New Delhi,62.0
+12301 Howrah Rajdhani,2024-09-26,Howrah,5.0
+12301 Howrah Rajdhani,2024-09-26,Dhanbad,7.0
+12301 Howrah Rajdhani,2024-09-26,Gaya,10.0
+12301 Howrah Rajdhani,2024-09-26,Mughalsarai,12.0
+12301 Howrah Rajdhani,2024-09-26,Kanpur,14.0
+12301 Howrah Rajdhani,2024-09-26,New Delhi,18.0
+12302 New Delhi Rajdhani,2024-09-26,New Delhi,1.0
+12302 New Delhi Rajdhani,2024-09-26,Kanpur,17.0
+12302 New Delhi Rajdhani,2024-09-26,Mughalsarai,36.0
+12302 New Delhi Rajdhani,2024-09-26,Gaya,33.0
+12302 New Delhi Rajdhani,2024-09-26,Dhanbad,15.0
+12302 New Delhi Rajdhani,2024-09-26,Howrah,8.0
+12951 Mumbai Rajdhani,2024-09-26,Mumbai Central,4.0
+12951 Mumbai Rajdhani,2024-09-26,Surat,5.0
+12951 Mumbai Rajdhani,2024-09-26,Vadodara,7.0
+12951 Mumbai Rajdhani,2024-09-26,Kota,7.0
+12951 Mumbai Rajdhani,2024-09-26,New Delhi,9.0
+12627 Karnataka Express,2024-09-26,Bengaluru,3.0
+12627 Karnataka Express,2024-09-26,Guntakal,6.0
+12627 Karnataka Express,2024-09-26,Nagpur,13.0
+12627 Karnataka Express,2024-09-26,Bhopal,11.0
+12627 Karnataka Express,2024-09-26,Jhansi,15.0
+12627 Karnataka Express,2024-09-26,New Delhi,20.0
+12559 Shiv Ganga Express,2024-09-26,Varanasi,1.0
+12559 Shiv Ganga Express,2024-09-26,Prayagraj,4.0
+12559 Shiv Ganga Express,2024-09-26,Kanpur,22.0
+12559 Shiv Ganga Express,2024-09-26,New Delhi,21.0
+12417 Prayagraj Express,2024-09-26,Prayagraj,14.0
+12417 Prayagraj Express,2024-09-26,Kanpur,22.0
+12417 Prayagraj Express,2024-09-26,Aligarh,17.0
+12417 Prayagraj Express,2024-09-26,New Delhi,11.0
+12019 Howrah Shatabdi,2024-09-26,Howrah,8.0
+12019 Howrah Shatabdi,2024-09-26,Ranchi,7.0
+12002 Bhopal Shatabdi,2024-09-26,New Delhi,6.0
+12002 Bhopal Shatabdi,2024-09-26,Agra,4.0
+12002 Bhopal Shatabdi,2024-09-26,Gwalior,8.0
+12002 Bhopal Shatabdi,2024-09-26,Jhansi,15.0
+12002 Bhopal Shatabdi,2024-09-26,Bhopal,7.0
+12723 Telangana Express,2024-09-26,Hyderabad,19.0
+12723 Telangana Express,2024-09-26,Nagpur,17.0
+12723 Telangana Express,2024-09-26,Bhopal,8.0
+12723 Telangana Express,2024-09-26,Jhansi,26.0
+12723 Telangana Express,2024-09-26,New Delhi,17.0
+12801 Purushottam Express,2024-09-26,Puri,1.0
+12801 Purushottam Express,2024-09-26,Bhubaneswar,2.0
+12801 Purushottam Express,2024-09-26,Gaya,7.0
+12801 Purushottam Express,2024-09-26,Mughalsarai,8.0
+12801 Purushottam Express,2024-09-26,Kanpur,22.0
+12801 Purushottam Express,2024-09-26,New Delhi,11.0
+12301 Howrah Rajdhani,2024-09-27,Howrah,9.0
+12301 Howrah Rajdhani,2024-09-27,Dhanbad,12.0
+12301 Howrah Rajdhani,2024-09-27,Gaya,13.0
+12301 Howrah Rajdhani,2024-09-27,Mughalsarai,18.0
+12301 Howrah Rajdhani,2024-09-27,Kanpur,39.0
+12301 Howrah Rajdhani,2024-09-27,New Delhi,34.0
+12302 New Delhi Rajdhani,2024-09-27,New Delhi,8.0
+12302 New Delhi Rajdhani,2024-09-27,Kanpur,7.0
+12302 New Delhi Rajdhani,2024-09-27,Mughalsarai,36.0
+12302 New Delhi Rajdhani,2024-09-27,Gaya,19.0
+12302 New Delhi Rajdhani,2024-09-27,Dhanbad,13.0
+12302 New Delhi Rajdhani,2024-09-27,Howrah,13.0
+12951 Mumbai Rajdhani,2024-09-27,Mumbai Central,0.0
+12951 Mumbai Rajdhani,2024-09-27,Surat,5.0
+12951 Mumbai Rajdhani,2024-09-27,Vadodara,6.0
+12951 Mumbai Rajdhani,2024-09-27,Kota,11.0
+12951 Mumbai Rajdhani,2024-09-27,New Delhi,20.0
+12621 Tamil Nadu Express,2024-09-27,Chennai,3.0
+12621 Tamil Nadu Express,2024-09-27,Vijayawada,8.0
+12621 Tamil Nadu Express,2024-09-27,Nagpur,16.0
+12621 Tamil Nadu Express,2024-09-27,Bhopal,9.0
+12621 Tamil Nadu Express,2024-09-27,Jhansi,10.0
+12621 Tamil Nadu Express,2024-09-27,New Delhi,20.0
+12627 Karnataka Express,2024-09-27,Bengaluru,3.0
+12627 Karnataka Express,2024-09-27,Guntakal,6.0
+12627 Karnataka Express,2024-09-27,Nagpur,10.0
+12627 Karnataka Express,2024-09-27,Bhopal,7.0
+12627 Karnataka Express,2024-09-27,Jhansi,16.0
+12627 Karnataka Express,2024-09-27,New Delhi,15.0
+12561 Swatantrata Senani,2024-09-27,Jaynagar,3.0
+12561 Swatantrata Senani,2024-09-27,Darbhanga,203.0
+12561 Swatantrata Senani,2024-09-27,Muzaffarpur,93.0
+12561 Swatantrata Senani,2024-09-27,Gorakhpur,177.0
+12561 Swatantrata Senani,2024-09-27,Lucknow,87.0
+12561 Swatantrata Senani,2024-09-27,New Delhi,62.0
+12559 Shiv Ganga Express,2024-09-27,Varanasi,2.0
+12559 Shiv Ganga Express,2024-09-27,Prayagraj,5.0
+12559 Shiv Ganga Express,2024-09-27,Kanpur,15.0
+12559 Shiv Ganga Express,2024-09-27,New Delhi,19.0
+12417 Prayagraj Express,2024-09-27,Prayagraj,15.0
+12417 Prayagraj Express,2024-09-27,Kanpur,21.0
+12417 Prayagraj Express,2024-09-27,Aligarh,11.0
+12417 Prayagraj Express,2024-09-27,New Delhi,29.0
+12019 Howrah Shatabdi,2024-09-27,Howrah,1.0
+12019 Howrah Shatabdi,2024-09-27,Ranchi,14.0
+12002 Bhopal Shatabdi,2024-09-27,New Delhi,26.0
+12002 Bhopal Shatabdi,2024-09-27,Agra,12.0
+12002 Bhopal Shatabdi,2024-09-27,Gwalior,11.0
+12002 Bhopal Shatabdi,2024-09-27,Jhansi,17.0
+12002 Bhopal Shatabdi,2024-09-27,Bhopal,8.0
+12801 Purushottam Express,2024-09-27,Puri,3.0
+12801 Purushottam Express,2024-09-27,Bhubaneswar,14.0
+12801 Purushottam Express,2024-09-27,Gaya,18.0
+12801 Purushottam Express,2024-09-27,Mughalsarai,38.0
+12801 Purushottam Express,2024-09-27,Kanpur,36.0
+12801 Purushottam Express,2024-09-27,New Delhi,24.0
+12301 Howrah Rajdhani,2024-09-28,Howrah,1.0
+12301 Howrah Rajdhani,2024-09-28,Dhanbad,4.0
+12301 Howrah Rajdhani,2024-09-28,Gaya,15.0
+12301 Howrah Rajdhani,2024-09-28,Mughalsarai,12.0
+12301 Howrah Rajdhani,2024-09-28,Kanpur,22.0
+12301 Howrah Rajdhani,2024-09-28,New Delhi,26.0
+12302 New Delhi Rajdhani,2024-09-28,New Delhi,19.0
+12302 New Delhi Rajdhani,2024-09-28,Kanpur,13.0
+12302 New Delhi Rajdhani,2024-09-28,Mughalsarai,27.0
+12302 New Delhi Rajdhani,2024-09-28,Gaya,15.0
+12302 New Delhi Rajdhani,2024-09-28,Dhanbad,7.0
+12302 New Delhi Rajdhani,2024-09-28,Howrah,6.0
+12951 Mumbai Rajdhani,2024-09-28,Mumbai Central,10.0
+12951 Mumbai Rajdhani,2024-09-28,Surat,8.0
+12951 Mumbai Rajdhani,2024-09-28,Vadodara,4.0
+12951 Mumbai Rajdhani,2024-09-28,Kota,6.0
+12951 Mumbai Rajdhani,2024-09-28,New Delhi,7.0
+12621 Tamil Nadu Express,2024-09-28,Chennai,4.0
+12621 Tamil Nadu Express,2024-09-28,Vijayawada,5.0
+12621 Tamil Nadu Express,2024-09-28,Nagpur,14.0
+12621 Tamil Nadu Express,2024-09-28,Bhopal,10.0
+12621 Tamil Nadu Express,2024-09-28,Jhansi,21.0
+12621 Tamil Nadu Express,2024-09-28,New Delhi,28.0
+12627 Karnataka Express,2024-09-28,Bengaluru,4.0
+12627 Karnataka Express,2024-09-28,Guntakal,203.0
+12627 Karnataka Express,2024-09-28,Nagpur,100.0
+12627 Karnataka Express,2024-09-28,Bhopal,54.0
+12627 Karnataka Express,2024-09-28,Jhansi,37.0
+12627 Karnataka Express,2024-09-28,New Delhi,33.0
+12561 Swatantrata Senani,2024-09-28,Jaynagar,5.0
+12561 Swatantrata Senani,2024-09-28,Darbhanga,6.0
+12561 Swatantrata Senani,2024-09-28,Muzaffarpur,6.0
+12561 Swatantrata Senani,2024-09-28,Gorakhpur,17.0
+12561 Swatantrata Senani,2024-09-28,Lucknow,9.0
+12561 Swatantrata Senani,2024-09-28,New Delhi,7.0
+12559 Shiv Ganga Express,2024-09-28,Varanasi,8.0
+12559 Shiv Ganga Express,2024-09-28,Prayagraj,17.0
+12559 Shiv Ganga Express,2024-09-28,Kanpur,19.0
+12559 Shiv Ganga Express,2024-09-28,New Delhi,22.0
+12417 Prayagraj Express,2024-09-28,Prayagraj,1.0
+12417 Prayagraj Express,2024-09-28,Kanpur,19.0
+12417 Prayagraj Express,2024-09-28,Aligarh,13.0
+12417 Prayagraj Express,2024-09-28,New Delhi,29.0
+12019 Howrah Shatabdi,2024-09-28,Howrah,12.0
+12019 Howrah Shatabdi,2024-09-28,Ranchi,8.0
+12002 Bhopal Shatabdi,2024-09-28,New Delhi,12.0
+12002 Bhopal Shatabdi,2024-09-28,Agra,9.0
+12002 Bhopal Shatabdi,2024-09-28,Gwalior,6.0
+12002 Bhopal Shatabdi,2024-09-28,Jhansi,12.0
+12002 Bhopal Shatabdi,2024-09-28,Bhopal,12.0
+12723 Telangana Express,2024-09-28,Hyderabad,1.0
+12723 Telangana Express,2024-09-28,Nagpur,15.0
+12723 Telangana Express,2024-09-28,Bhopal,10.0
+12723 Telangana Express,2024-09-28,Jhansi,155.0
+12723 Telangana Express,2024-09-28,New Delhi,80.0
+12801 Purushottam Express,2024-09-28,Puri,4.0
+12801 Purushottam Express,2024-09-28,Bhubaneswar,13.0
+12801 Purushottam Express,2024-09-28,Gaya,15.0
+12801 Purushottam Express,2024-09-28,Mughalsarai,23.0
+12801 Purushottam Express,2024-09-28,Kanpur,19.0
+12801 Purushottam Express,2024-09-28,New Delhi,22.0
+12301 Howrah Rajdhani,2024-09-29,Howrah,15.0
+12301 Howrah Rajdhani,2024-09-29,Dhanbad,17.0
+12301 Howrah Rajdhani,2024-09-29,Gaya,27.0
+12301 Howrah Rajdhani,2024-09-29,Mughalsarai,23.0
+12301 Howrah Rajdhani,2024-09-29,Kanpur,29.0
+12301 Howrah Rajdhani,2024-09-29,New Delhi,30.0
+12302 New Delhi Rajdhani,2024-09-29,New Delhi,10.0
+12302 New Delhi Rajdhani,2024-09-29,Kanpur,16.0
+12302 New Delhi Rajdhani,2024-09-29,Mughalsarai,14.0
+12302 New Delhi Rajdhani,2024-09-29,Gaya,15.0
+12302 New Delhi Rajdhani,2024-09-29,Dhanbad,19.0
+12302 New Delhi Rajdhani,2024-09-29,Howrah,9.0
+12951 Mumbai Rajdhani,2024-09-29,Mumbai Central,2.0
+12951 Mumbai Rajdhani,2024-09-29,Surat,4.0
+12951 Mumbai Rajdhani,2024-09-29,Vadodara,3.0
+12951 Mumbai Rajdhani,2024-09-29,Kota,5.0
+12951 Mumbai Rajdhani,2024-09-29,New Delhi,20.0
+12621 Tamil Nadu Express,2024-09-29,Chennai,0.0
+12621 Tamil Nadu Express,2024-09-29,Vijayawada,16.0
+12621 Tamil Nadu Express,2024-09-29,Nagpur,17.0
+12621 Tamil Nadu Express,2024-09-29,Bhopal,10.0
+12621 Tamil Nadu Express,2024-09-29,Jhansi,23.0
+12621 Tamil Nadu Express,2024-09-29,New Delhi,20.0
+12627 Karnataka Express,2024-09-29,Bengaluru,11.0
+12627 Karnataka Express,2024-09-29,Guntakal,6.0
+12627 Karnataka Express,2024-09-29,Nagpur,8.0
+12627 Karnataka Express,2024-09-29,Bhopal,6.0
+12627 Karnataka Express,2024-09-29,Jhansi,18.0
+12627 Karnataka Express,2024-09-29,New Delhi,28.0
+12561 Swatantrata Senani,2024-09-29,Jaynagar,7.0
+12561 Swatantrata Senani,2024-09-29,Darbhanga,4.0
+12561 Swatantrata Senani,2024-09-29,Muzaffarpur,15.0
+12561 Swatantrata Senani,2024-09-29,Gorakhpur,21.0
+12561 Swatantrata Senani,2024-09-29,Lucknow,12.0
+12561 Swatantrata Senani,2024-09-29,New Delhi,27.0
+12559 Shiv Ganga Express,2024-09-29,Varanasi,15.0
+12559 Shiv Ganga Express,2024-09-29,Prayagraj,10.0
+12559 Shiv Ganga Express,2024-09-29,Kanpur,35.0
+12559 Shiv Ganga Express,2024-09-29,New Delhi,28.0
+12417 Prayagraj Express,2024-09-29,Prayagraj,10.0
+12417 Prayagraj Express,2024-09-29,Kanpur,31.0
+12417 Prayagraj Express,2024-09-29,Aligarh,27.0
+12417 Prayagraj Express,2024-09-29,New Delhi,17.0
+12019 Howrah Shatabdi,2024-09-29,Howrah,5.0
+12019 Howrah Shatabdi,2024-09-29,Ranchi,20.0
+12002 Bhopal Shatabdi,2024-09-29,New Delhi,3.0
+12002 Bhopal Shatabdi,2024-09-29,Agra,8.0
+12002 Bhopal Shatabdi,2024-09-29,Gwalior,12.0
+12002 Bhopal Shatabdi,2024-09-29,Jhansi,118.0
+12002 Bhopal Shatabdi,2024-09-29,Bhopal,55.0
+12723 Telangana Express,2024-09-29,Hyderabad,1.0
+12723 Telangana Express,2024-09-29,Nagpur,17.0
+12723 Telangana Express,2024-09-29,Bhopal,8.0
+12723 Telangana Express,2024-09-29,Jhansi,5.0
+12723 Telangana Express,2024-09-29,New Delhi,4.0
+12801 Purushottam Express,2024-09-29,Puri,8.0
+12801 Purushottam Express,2024-09-29,Bhubaneswar,6.0
+12801 Purushottam Express,2024-09-29,Gaya,20.0
+12801 Purushottam Express,2024-09-29,Mughalsarai,202.0
+12801 Purushottam Express,2024-09-29,Kanpur,109.0
+12801 Purushottam Express,2024-09-29,New Delhi,64.0
+12301 Howrah Rajdhani,2024-09-30,Howrah,2.0
+12301 Howrah Rajdhani,2024-09-30,Dhanbad,11.0
+12301 Howrah Rajdhani,2024-09-30,Gaya,11.0
+12301 Howrah Rajdhani,2024-09-30,Mughalsarai,16.0
+12301 Howrah Rajdhani,2024-09-30,Kanpur,19.0
+12301 Howrah Rajdhani,2024-09-30,New Delhi,14.0
+12302 New Delhi Rajdhani,2024-09-30,New Delhi,8.0
+12302 New Delhi Rajdhani,2024-09-30,Kanpur,13.0
+12302 New Delhi Rajdhani,2024-09-30,Mughalsarai,12.0
+12302 New Delhi Rajdhani,2024-09-30,Gaya,27.0
+12302 New Delhi Rajdhani,2024-09-30,Dhanbad,20.0
+12302 New Delhi Rajdhani,2024-09-30,Howrah,31.0
+12951 Mumbai Rajdhani,2024-09-30,Mumbai Central,0.0
+12951 Mumbai Rajdhani,2024-09-30,Surat,3.0
+12951 Mumbai Rajdhani,2024-09-30,Vadodara,4.0
+12951 Mumbai Rajdhani,2024-09-30,Kota,3.0
+12951 Mumbai Rajdhani,2024-09-30,New Delhi,4.0
+12621 Tamil Nadu Express,2024-09-30,Chennai,2.0
+12621 Tamil Nadu Express,2024-09-30,Vijayawada,5.0
+12621 Tamil Nadu Express,2024-09-30,Nagpur,15.0
+12621 Tamil Nadu Express,2024-09-30,Bhopal,15.0
+12621 Tamil Nadu Express,2024-09-30,Jhansi,15.0
+12621 Tamil Nadu Express,2024-09-30,New Delhi,16.0
+12627 Karnataka Express,2024-09-30,Bengaluru,3.0
+12627 Karnataka Express,2024-09-30,Guntakal,14.0
+12627 Karnataka Express,2024-09-30,Nagpur,16.0
+12627 Karnataka Express,2024-09-30,Bhopal,14.0
+12627 Karnataka Express,2024-09-30,Jhansi,22.0
+12627 Karnataka Express,2024-09-30,New Delhi,24.0
+12561 Swatantrata Senani,2024-09-30,Jaynagar,1.0
+12561 Swatantrata Senani,2024-09-30,Darbhanga,4.0
+12561 Swatantrata Senani,2024-09-30,Muzaffarpur,3.0
+12561 Swatantrata Senani,2024-09-30,Gorakhpur,6.0
+12561 Swatantrata Senani,2024-09-30,Lucknow,10.0
+12561 Swatantrata Senani,2024-09-30,New Delhi,10.0
+12559 Shiv Ganga Express,2024-09-30,Varanasi,4.0
+12559 Shiv Ganga Express,2024-09-30,Prayagraj,4.0
+12559 Shiv Ganga Express,2024-09-30,Kanpur,111.0
+12559 Shiv Ganga Express,2024-09-30,New Delhi,70.0
+12019 Howrah Shatabdi,2024-09-30,Howrah,15.0
+12019 Howrah Shatabdi,2024-09-30,Ranchi,8.0
+12002 Bhopal Shatabdi,2024-09-30,New Delhi,8.0
+12002 Bhopal Shatabdi,2024-09-30,Agra,6.0
+12002 Bhopal Shatabdi,2024-09-30,Gwalior,8.0
+12002 Bhopal Shatabdi,2024-09-30,Jhansi,12.0
+12002 Bhopal Shatabdi,2024-09-30,Bhopal,18.0
+12723 Telangana Express,2024-09-30,Hyderabad,3.0
+12723 Telangana Express,2024-09-30,Nagpur,12.0
+12723 Telangana Express,2024-09-30,Bhopal,9.0
+12723 Telangana Express,2024-09-30,Jhansi,16.0
+12723 Telangana Express,2024-09-30,New Delhi,30.0
+12627 Karnataka Express,2024-09-10,New Delhi,26.0
+12951 Mumbai Rajdhani,2024-09-16,Surat,8.0
+12801 Purushottam Express,2024-09-21,Mughalsarai,20.0
+12627 Karnataka Express,2024-09-16,Nagpur,12.0
+12951 Mumbai Rajdhani,2024-09-16,New Delhi,12.0
